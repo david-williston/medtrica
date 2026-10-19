@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Verify generated routes, local links/media, catalog coverage and search URLs."""
 from pathlib import Path
+import tempfile
 from html.parser import HTMLParser
 from urllib.parse import urlparse,unquote
 import json,sys
@@ -45,5 +46,5 @@ for p in products:
 print(f'Checked {len(list(root.rglob("*.html")))} HTML files, {links} links/media, {images} images, {len(products)} products, {len(index)} search records.')
 print('Errors:',len(errors))
 for e in errors[:100]:print(e)
-Path('/private/tmp/medtrica-link-errors.json').write_text(json.dumps(errors,indent=2))
+(Path(tempfile.gettempdir())/'medtrica-link-errors.json').write_text(json.dumps(errors,indent=2))
 raise SystemExit(bool(errors))

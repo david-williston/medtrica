@@ -2,6 +2,7 @@
 """Audit imported product paragraphs, table rows and option values against source HTML."""
 import json,re
 from pathlib import Path
+import tempfile
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 crawl=json.loads(Path('/private/tmp/medtrica-crawl/inventory.json').read_text())
@@ -33,5 +34,5 @@ for d in crawl['pages']:
 print(f'Compared {len(checked)} products, {paragraphs} paragraphs/table rows and {options} option values against the source.')
 print('Errors:',len(errors))
 for error in errors[:30]:print(error)
-Path('/private/tmp/medtrica-content-errors.json').write_text(json.dumps(errors,indent=2))
+(Path(tempfile.gettempdir())/'medtrica-content-errors.json').write_text(json.dumps(errors,indent=2))
 raise SystemExit(bool(errors))
