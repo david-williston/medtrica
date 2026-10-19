@@ -24,7 +24,7 @@
     <li class="git-commit">
       <div class="git-commit-head">
         <time datetime="{{ .date }}">{{ time.Format "January 2, 2006" .date }}</time>
-        <code title="{{ .hash }}">{{ .short }}</code>
+        <a href="https://github.com/david-williston/medtrica/commit/{{ .hash }}" aria-label="View commit {{ .short }} on GitHub"><code title="{{ .hash }}">{{ .short }}</code></a>
       </div>
       <p class="git-commit-subject">{{ .subject }}</p>
       {{- with .body }}

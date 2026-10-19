@@ -19,7 +19,7 @@ const git = (...args) => execFileSync('git', args, { encoding: 'utf8' });
 let log = '';
 try {
     log = git(
-        'log', '--first-parent', '--decorate-refs=refs/tags/',
+        'log', '--topo-order', '--decorate-refs=refs/tags/',
         `--format=%H${FIELD}%h${FIELD}%aI${FIELD}%D${FIELD}%s${FIELD}%b${RECORD}`
     );
 } catch (error) {

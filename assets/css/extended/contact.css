@@ -1,22 +1,22 @@
 .contact-intro { padding-block: 64px 40px; max-width: 920px; }
-.contact-intro h1 { font-size: clamp(2.75rem, 5.6vw, 4.5rem); line-height: 1.08; letter-spacing: -0.03em; margin-bottom: 28px; }
-.contact-lead { max-width: 56ch; font-size: 1.5rem; line-height: 1.65; }
+.contact-intro h1 { font-size: clamp(2.5625rem, 5.26vw, 4.25rem); line-height: 1.08; letter-spacing: -0.03em; margin-bottom: 28px; }
+.contact-lead { max-width: 56ch; font-size: 1.4375rem; line-height: 1.65; }
 .contact-methods { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; margin-bottom: 72px; }
 .contact-method { padding: 36px; background: var(--entry); border: 1px solid var(--border); border-top: 4px solid var(--accent); border-radius: 14px; }
-.contact-method h2 { font-size: clamp(1.5rem, 2.4vw, 2rem); margin-bottom: 20px; text-wrap: initial; }
+.contact-method h2 { font-size: clamp(1.4375rem, 2.26vw, 1.875rem); margin-bottom: 20px; text-wrap: initial; }
 .contact-method h2 a { text-decoration: underline; text-decoration-thickness: 1px; overflow-wrap: anywhere; }
 .contact-method h2 span { display: inline-block; padding-left: 6px; }
-.contact-method p:not(.eyebrow) { max-width: 44ch; font-size: 1.25rem; line-height: 1.7; }
+.contact-method p:not(.eyebrow) { max-width: 44ch; font-size: 1.1875rem; line-height: 1.7; }
 .contact-locations { padding-block: 16px 64px; }
 .office-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 32px; align-items: stretch; }
 .office-card { min-width: 0; background: #fff; border: 1px solid var(--border); border-radius: 18px; overflow: hidden; display: flex; flex-direction: column; }
 .office-body { flex: 1; padding: 36px; }
-.office-body h3 { font-size: 2rem; margin-bottom: 8px; }
+.office-body h3 { font-size: 1.875rem; margin-bottom: 8px; }
 .office-body .eyebrow { margin-bottom: 16px; text-transform: uppercase; }
-.office-city { color: var(--secondary); font-size: 1.25rem; margin-bottom: 28px; }
-.office-body address { font-style: normal; font-size: 1.25rem; line-height: 1.75; min-height: 140px; margin-bottom: 28px; }
+.office-city { color: var(--secondary); font-size: 1.1875rem; margin-bottom: 28px; }
+.office-body address { font-style: normal; font-size: 1.1875rem; line-height: 1.75; min-height: 140px; margin-bottom: 28px; }
 .office-body address span { display: block; }
-.office-details { margin: 0; font-size: 1.125rem; line-height: 1.7; }
+.office-details { margin: 0; font-size: 1.0625rem; line-height: 1.7; }
 .office-details > div { display: grid; grid-template-columns: 64px minmax(0, 1fr); gap: 16px; padding-block: 12px; border-top: 1px solid #e2deed; }
 .office-details dt { font-weight: 700; color: var(--primary); }
 .office-details dd { margin: 0; min-width: 0; overflow-wrap: anywhere; }
@@ -37,8 +37,8 @@
 }
 @media (max-width: 700px) {
     .contact-intro { padding-block: 36px 28px; }
-    .contact-intro h1 { font-size: 2.75rem; }
-    .contact-lead { font-size: 1.375rem; }
+    .contact-intro h1 { font-size: 2.5625rem; }
+    .contact-lead { font-size: 1.3125rem; }
     .contact-methods, .office-grid, .inquiry-guide { grid-template-columns: minmax(0, 1fr); }
     .contact-methods { margin-bottom: 48px; }
     .contact-method { padding: 26px; }

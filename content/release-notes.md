@@ -15,6 +15,17 @@ Updates use calendar versions: year.month.day, followed by `.1`, `.2` and so on 
 
 Current site version: {{< site-version >}}
 
+### v2026.10.19.1 · October 19, 2026
+
+**Mobile search and visual refinements**
+
+- Reduced typography slightly while keeping comfortable spacing and large touch targets.
+- Added a prominent search link to the mobile header on every page.
+- Displayed the product-range icons at their original size instead of enlarging low-resolution images.
+- Clarified that product quote buttons open an email app, with visible contact alternatives.
+- Linked every historical commit to its GitHub changes and included merged-branch commits in the history generator.
+- Enabled GitHub Pages deployments from version tags.
+
 ### v2026.10.19 · October 19, 2026
 
 **A complete catalog, clearer reading, and versioned updates**
@@ -28,6 +39,8 @@ Current site version: {{< site-version >}}
 
 The deferred content-formatting review is tracked in [GitHub issue #1](https://github.com/david-williston/medtrica/issues/1).
 
-## Change history
+## Complete commit history
+
+Every commit is listed below, including the work before versioning was introduced. The initial release includes all eight commits from the original site build through the branding and versioning update. Select a commit number to view its changes on GitHub.
 
 {{< git-history >}}

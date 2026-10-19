@@ -6,5 +6,6 @@
     <summary class="button mobile-menu-toggle">Menu <span aria-hidden="true">☰</span></summary>
     <ul class="mobile-menu">{{ range site.Menus.main }}<li><a href="{{ .URL | relURL }}"{{ if eq $.RelPermalink (.URL | relURL) }} aria-current="page"{{ end }}>{{ .Name }}</a></li>{{ end }}</ul>
   </details>
+  <a class="mobile-search" href="{{ "search/" | relURL }}"{{ if eq .RelPermalink ("search/" | relURL) }} aria-current="page"{{ end }}><svg aria-hidden="true" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><span>Search products &amp; articles</span><span aria-hidden="true">→</span></a>
 </nav>
 </header>

@@ -50,6 +50,23 @@ test('history groups commits by release and identifies dirty or unreleased previ
         assert.equal(JSON.parse(readFileSync(join(f.cwd, 'data/git_history.json')))[0].release, null);
     } finally { f.dispose(); }
 });
+test('history includes commits from merged branches', () => {
+    const f = fixture();
+    try {
+        f.git('tag', '-a', 'v2026.10.18', '-m', 'First release');
+        f.git('switch', '-c', 'feature');
+        f.git('commit', '--allow-empty', '-m', 'Branch contribution');
+        const branchCommit = f.git('rev-parse', 'HEAD');
+        f.git('switch', 'main');
+        f.git('merge', '--no-ff', 'feature', '-m', 'Merge contribution');
+        f.git('tag', '-a', 'v2026.10.19', '-m', 'Second release');
+        execFileSync(process.execPath, [history], { cwd: f.cwd, stdio: 'pipe' });
+        const commits = JSON.parse(readFileSync(join(f.cwd, 'data/git_history.json')));
+        assert.equal(commits.length, Number(f.git('rev-list', '--count', 'HEAD')));
+        assert.equal(commits.find(commit => commit.hash === branchCommit).release, 'v2026.10.19');
+        assert.equal(commits.at(-1).release, 'v2026.10.18');
+    } finally { f.dispose(); }
+});
 test('release dry run reuses a tagged HEAD without creating tags or deployments', () => {
     const f = fixture();
     try {
