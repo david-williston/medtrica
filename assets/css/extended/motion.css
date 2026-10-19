@@ -4,7 +4,7 @@
     --shine-stagger: 1s;
 }
 
-:is(.button, button, [role="button"], .top-link, .pagination a, .category-nav a, #menu li:last-child a) {
+:where(.button, button, [role="button"], .top-link, .pagination a, .category-nav a, #menu li:last-child a) {
     --shine: rgba(255, 255, 255, 0.35);
     --shine-delay: var(--shine-start);
     position: relative;
@@ -18,7 +18,7 @@
     --shine: color-mix(in srgb, #1c594a 22%, transparent);
 }
 
-:is(.button, button, [role="button"], .top-link, .pagination a, .category-nav a, #menu li:last-child a)::after {
+:where(.button, button, [role="button"], .top-link, .pagination a, .category-nav a, #menu li:last-child a)::after {
     content: "";
     position: absolute;
     inset: 0;
@@ -56,7 +56,7 @@
 }
 
 @media (prefers-reduced-motion: reduce) {
-    :is(.button, button, [role="button"], .top-link, .pagination a, .category-nav a, #menu li:last-child a)::after {
+    :where(.button, button, [role="button"], .top-link, .pagination a, .category-nav a, #menu li:last-child a)::after {
         display: none;
         animation: none;
     }

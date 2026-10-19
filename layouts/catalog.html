@@ -1,6 +1,6 @@
 {{ define "main" }}
 <header class="page-header"><div class="breadcrumbs"><a href="{{ "" | relURL }}">Home</a> / <a href="{{ "products/" | relURL }}">Products</a></div><h1>{{ .Title }}</h1>{{ with .Description }}<p>{{ . }}</p>{{ end }}</header>
-{{ if eq .Params.contentKind "product-category" }}<nav class="category-nav" aria-label="Product categories">{{ range hugo.Data.catalog.categories }}{{ with partial "page-for-path.html" . }}<a href="{{ .RelPermalink }}" {{ if eq $.RelPermalink .RelPermalink }}aria-current="page"{{ end }}>{{ .Title }}</a>{{ end }}{{ end }}</nav>{{ end }}
+{{ if eq .Params.contentKind "product-category" }}<details class="category-picker"><summary>Browse by product category <span>{{ len hugo.Data.catalog.categories }} categories</span></summary><nav class="category-nav" aria-label="Product categories">{{ range hugo.Data.catalog.categories }}{{ with partial "page-for-path.html" . }}<a href="{{ .RelPermalink }}" {{ if eq $.RelPermalink .RelPermalink }}aria-current="page"{{ end }}>{{ .Title }}</a>{{ end }}{{ end }}</nav></details>{{ end }}
 {{ with .Content }}<div class="post-content migrated-content">{{ . }}</div>{{ end }}
 {{ $items := .Params.items }}{{ if eq .Params.catalogAll true }}{{ $items = hugo.Data.catalog.products }}{{ end }}
 <p class="catalog-count">{{ len $items }} {{ if eq .Params.contentKind "product-category" }}products{{ else }}items{{ end }}</p>

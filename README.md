@@ -51,3 +51,7 @@ Legacy URLs and the first version’s six category URLs are retained through loc
 ## Migration limits
 
 See [the migration report](migration/REPORT.md) for exact coverage and source failures. Product and article text is preserved from the source. Broken source images are marked as unavailable, with no invented replacement photos. Unavailable linked articles are recorded rather than fabricated. Spam comments, trackers, WordPress scripts, and backend forms are not imported. Product inquiries use email/phone; GitHub Pages does not run WordPress cart, checkout, captcha, newsletter or form-processing services.
+
+## Typography
+
+Atkinson Hyperlegible is hosted locally in `static/fonts`, with its SIL Open Font License. Body and product text is 20px at the default browser font size; navigation, controls, tables and secondary text are 18px or larger. Sizes use `rem` so browser text-size preferences are respected. Mobile layouts use a single card column, large controls and scrollable specification tables. Category navigation and the compact phone menu use accessible native disclosures. Bulleted and numbered lists share a consistent marker gutter, including imported product HTML. Browser checks covered 320px and 390px frames, and 200% text enlargement without horizontal page overflow.

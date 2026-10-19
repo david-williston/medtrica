@@ -1,0 +1,10 @@
+<header class="header">
+<nav class="header-nav" aria-label="Main navigation">
+  <div class="logo"><a href="{{ "" | relURL }}" aria-label="Medtrica home" accesskey="h"><img src="{{ "images/logo.png" | relURL }}" alt="Medtrica" width="311" height="68"></a></div>
+  <ul class="menu" id="menu">{{ range site.Menus.main }}<li><a href="{{ .URL | relURL }}"{{ if eq $.RelPermalink (.URL | relURL) }} aria-current="page"{{ end }}>{{ .Name }}</a></li>{{ end }}</ul>
+  <details class="mobile-navigation">
+    <summary class="button mobile-menu-toggle">Menu <span aria-hidden="true">☰</span></summary>
+    <ul class="mobile-menu">{{ range site.Menus.main }}<li><a href="{{ .URL | relURL }}"{{ if eq $.RelPermalink (.URL | relURL) }} aria-current="page"{{ end }}>{{ .Name }}</a></li>{{ end }}</ul>
+  </details>
+</nav>
+</header>
