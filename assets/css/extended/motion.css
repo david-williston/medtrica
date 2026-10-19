@@ -1,0 +1,73 @@
+/* Match terrybrennen.com's button-glint cadence and restrained fade-up motion. */
+:root {
+    --shine-start: 5s;
+    --shine-stagger: 1s;
+}
+
+:is(.button, button, [role="button"], .top-link, .pagination a, .category-nav a, #menu li:last-child a) {
+    --shine: rgba(255, 255, 255, 0.35);
+    --shine-delay: var(--shine-start);
+    position: relative;
+    isolation: isolate;
+}
+
+/* Keep PaperMod's back-to-top control fixed in its original position. */
+.top-link { position: fixed; }
+
+.category-nav a {
+    --shine: color-mix(in srgb, #1c594a 22%, transparent);
+}
+
+:is(.button, button, [role="button"], .top-link, .pagination a, .category-nav a, #menu li:last-child a)::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    border-radius: inherit;
+    pointer-events: none;
+    background: linear-gradient(105deg, transparent 42%, var(--shine) 50%, transparent 58%) 100% 0 / 300% 100% no-repeat;
+    animation: medtrica-glint 20s ease-in-out var(--shine-delay) infinite both;
+}
+
+@keyframes medtrica-glint {
+    0% { background-position: 100% 0; }
+    7.5%, 100% { background-position: 0 0; }
+}
+
+@keyframes medtrica-enter {
+    from { opacity: 0; transform: translateY(8px); }
+    to { opacity: 1; transform: none; }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .main { animation: medtrica-enter 0.5s ease-out; }
+
+    /* Only JavaScript-enhanced, offscreen blocks receive this class. */
+    .motion-pending {
+        opacity: 0;
+        translate: 0 12px;
+        transition: opacity 0.65s ease-out, translate 0.65s ease-out;
+    }
+
+    .motion-pending.motion-visible {
+        opacity: 1;
+        translate: none;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    :is(.button, button, [role="button"], .top-link, .pagination a, .category-nav a, #menu li:last-child a)::after {
+        display: none;
+        animation: none;
+    }
+
+    .main, .motion-pending {
+        animation: none;
+        opacity: 1;
+        translate: none;
+    }
+
+    .product-card { transition: none; }
+    .product-card:hover { transform: none; }
+    html { scroll-behavior: auto; }
+}
