@@ -1,0 +1,38 @@
+baseURL = 'https://medtrica.com/'
+locale = 'en-US'
+title = 'Medtrica'
+theme = 'PaperMod'
+enableRobotsTXT = true
+[params]
+  description = 'Medical mattresses, positioning products and OEM manufacturing for healthcare facilities.'
+  defaultTheme = 'light'
+  disableThemeToggle = true
+  ShowBreadCrumbs = true
+  hideMeta = true
+  mainSections = ['products']
+[params.label]
+  text = 'Medtrica'
+  icon = 'images/logo.png'
+  iconHeight = 40
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
+[[menus.main]]
+  name = 'Products'
+  url = '/products/'
+  weight = 10
+[[menus.main]]
+  name = 'Our company'
+  url = '/about/'
+  weight = 20
+[[menus.main]]
+  name = 'OEM & private label'
+  url = '/oem-private-label/'
+  weight = 30
+[[menus.main]]
+  name = 'Search'
+  url = '/search/'
+  weight = 40
+[[menus.main]]
+  name = 'Contact us'
+  url = '/contact/'
+  weight = 50
