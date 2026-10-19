@@ -259,7 +259,9 @@ def main():
   params={k:r[k] for k in ['title','description','catalogSummary','gallery','terms','term','tags','date','items'] if k in r}
   params.update(url=r['path'],layout='product' if r['kind']=='product' else 'catalog' if r['kind'] in ('product-category','archive') or r['path']=='/blog/' else 'single',sourceURL=r['url'],contentKind=r['kind'])
   aliases=[pathof(u) for u in r['sources'] if pathof(u)!=r['path'] and pathof(u) not in ['/product-category/positioning-pads/','/product-category/emergency-response-body-bags/']]
-  if r['path']=='/contact-us/':aliases.append('/contact/')
+  if r['path']=='/contact-us/':
+   aliases.append('/contact/')
+   params.update(layout='contact',description='Contact Medtrica in the United States and Canada for product information, quotes, custom sizing and OEM manufacturing. Find phone numbers, addresses and maps.')
   compatibility={
    '/product-category/hospital-bed-mattress/':'/products/hospital-bed-mattresses/',
    '/product-category/stretcher-mattresses/':'/products/stretcher-mattresses/',

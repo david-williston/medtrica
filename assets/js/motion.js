@@ -26,7 +26,7 @@
     const targets = document.querySelectorAll(
         '.section-heading, .product-card, .post-entry, .company-band, .oem-band, ' +
         '.product-gallery > a, .product-contact, .post-content > h2, ' +
-        '.post-content > blockquote, .product-information, .medtrica-footer'
+        '.post-content > blockquote, .product-information, .contact-method, .office-card, .inquiry-guide, .medtrica-footer'
     );
     targets.forEach((target) => {
         // Leave initially visible content alone, including restored scroll positions.

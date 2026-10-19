@@ -1,0 +1,27 @@
+{
+  "email": "info@medtrica.com",
+  "phone": "1 877-703-1079",
+  "phoneLink": "+18777031079",
+  "offices": [
+    {
+      "country": "United States",
+      "name": "Medtrica USA",
+      "city": "Redondo Beach, California",
+      "address": ["4001 Inglewood Ave", "Bldg 101-128", "Redondo Beach, CA 90278", "United States"],
+      "mapQuery": "4001 Inglewood Ave, Redondo Beach, CA 90278, USA",
+      "phone": "1 877-703-1079",
+      "phoneLink": "+18777031079",
+      "fax": "310-263-9098"
+    },
+    {
+      "country": "Canada",
+      "name": "Medtrica Canada",
+      "city": "Surrey, British Columbia",
+      "address": ["3525 191 St, Unit 1", "Surrey, BC V3Z 0P6", "Canada"],
+      "mapQuery": "3525 191 Street, Surrey, BC V3Z 0P6, Canada",
+      "phone": "1 877-703-1079 ext. 1",
+      "phoneLink": "+18777031079;ext=1",
+      "fax": "310-263-9098"
+    }
+  ]
+}

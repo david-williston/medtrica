@@ -1,0 +1,28 @@
+{{ define "main" }}
+{{ $contact := hugo.Data.contact }}
+<section class="contact-intro">
+  <p class="eyebrow">CONTACT MEDTRICA</p>
+  <h1>Let’s talk about<br>what you need.</h1>
+  <p class="contact-lead">Product questions, custom sizes, or a manufacturing project. Start a conversation with our team in the United States or Canada.</p>
+</section>
+<section class="contact-methods" aria-label="Ways to contact Medtrica">
+  <div class="contact-method"><p class="eyebrow">SEND US AN EMAIL</p><h2><a href="mailto:{{ $contact.email }}">{{ $contact.email }} <span aria-hidden="true">↗</span></a></h2><p>Tell us what you’re looking for. Include product details or your project requirements.</p></div>
+  <div class="contact-method"><p class="eyebrow">GIVE US A CALL</p><h2><a href="tel:{{ $contact.phoneLink }}">{{ $contact.phone }} <span aria-hidden="true">↗</span></a></h2><p>Talk through your product questions and facility needs. For Canada, use extension 1.</p></div>
+</section>
+<section class="contact-locations" aria-labelledby="locations-title">
+  <div class="section-heading"><div><p class="eyebrow">OUR LOCATIONS</p><h2 id="locations-title">Two locations.<br>One team to help.</h2></div><p>Building relationships and serving the medical community since 2001.</p></div>
+  <div class="office-grid">
+  {{ range $contact.offices }}
+    <article class="office-card">
+      <div class="office-body"><p class="eyebrow">{{ .country }}</p><h3>{{ .name }}</h3><p class="office-city">{{ .city }}</p>
+        <address>{{ range .address }}<span>{{ . }}</span>{{ end }}</address>
+        <dl class="office-details"><div><dt>Phone</dt><dd><a href="tel:{{ .phoneLink }}">{{ .phone }}</a></dd></div><div><dt>Email</dt><dd><a href="mailto:{{ $contact.email }}">{{ $contact.email }}</a></dd></div><div><dt>Fax</dt><dd>{{ .fax }}</dd></div></dl>
+        <div class="office-actions"><a class="button" href="https://www.google.com/maps/dir/?api=1&amp;destination={{ .mapQuery | urlquery }}">Get directions <span aria-hidden="true">↗</span></a><a class="text-link" href="https://www.google.com/maps/search/?api=1&amp;query={{ .mapQuery | urlquery }}">Open Google Maps ↗</a></div>
+      </div>
+      <iframe class="office-map" title="Google Map: {{ .name }}, {{ .city }}" src="https://www.google.com/maps?q={{ .mapQuery | urlquery }}&amp;z=15&amp;output=embed" width="600" height="340" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe>
+    </article>
+  {{ end }}
+  </div>
+</section>
+<section class="inquiry-guide" aria-labelledby="inquiry-title"><div><p class="eyebrow">MAKE YOUR FIRST MESSAGE COUNT</p><h2 id="inquiry-title">A few details help<br>us get started.</h2><p>For a product quote or custom order, share as much of the following as you can.</p></div><div><ul><li>The product name or product code</li><li>Dimensions, materials, or equipment model</li><li>The quantity you need</li><li>Your delivery location and timing</li></ul><a class="button" href="mailto:{{ $contact.email }}?subject=Medtrica%20product%20inquiry">Email your requirements <span aria-hidden="true">↗</span></a></div></section>
+{{ end }}

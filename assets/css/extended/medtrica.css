@@ -334,3 +334,7 @@ a { text-underline-offset: 0.2em; }
 .footer span:last-child { white-space: normal; }
 .medtrica-footer > div { min-width: 0; }
 .medtrica-footer a { max-width: 100%; overflow-wrap: anywhere; }
+.post-content figure > figcaption, .post-content figure > figcaption > p,
+.paginav .title, .archive-count, .archive-meta { font-size: 1.125rem; line-height: 1.65; }
+.archive-posts { font-size: 1.25rem; }
+.not-found { font-size: clamp(4rem, 20vw, 8rem); }
