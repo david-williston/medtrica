@@ -1,0 +1,3 @@
+# Preserve original media bytes and avoid treating PDFs as text diffs.
+static/media/** binary
+static/images/** binary

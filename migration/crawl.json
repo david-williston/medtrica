@@ -1,0 +1,2794 @@
+{
+  "sitemaps": [
+    {
+      "url": "https://medtrica.com/post-sitemap.xml",
+      "entries": 46
+    },
+    {
+      "url": "https://medtrica.com/page-sitemap.xml",
+      "entries": 9
+    },
+    {
+      "url": "https://medtrica.com/attachment-sitemap.xml",
+      "entries": 78
+    },
+    {
+      "url": "https://medtrica.com/product-sitemap.xml",
+      "entries": 72
+    },
+    {
+      "url": "https://medtrica.com/category-sitemap.xml",
+      "entries": 14
+    },
+    {
+      "url": "https://medtrica.com/product_cat-sitemap.xml",
+      "entries": 21
+    },
+    {
+      "url": "https://medtrica.com/product_tag-sitemap.xml",
+      "entries": 9
+    },
+    {
+      "url": "https://medtrica.com/author-sitemap.xml",
+      "entries": 2
+    }
+  ],
+  "sitemap_entries": {
+    "https://medtrica.com/blog/": "post-sitemap.xml",
+    "https://medtrica.com/how-to-choose-the-right-thickness-of-memory-foam-mattress-topper/": "post-sitemap.xml",
+    "https://medtrica.com/what-is-tempur-pedic-mattress-and-their-health-benefits/": "post-sitemap.xml",
+    "https://medtrica.com/pick-right-hospital-bed-mattress/": "post-sitemap.xml",
+    "https://medtrica.com/need-know-hospital-bed-mattress-suits-needs/": "post-sitemap.xml",
+    "https://medtrica.com/things-keep-mind-buying-medical-sandbags-handles/": "post-sitemap.xml",
+    "https://medtrica.com/performing-endoscopy-preventative-maintenance/": "post-sitemap.xml",
+    "https://medtrica.com/how-to-protect-your-endoscope/": "post-sitemap.xml",
+    "https://medtrica.com/usa-veterans-affairs/": "post-sitemap.xml",
+    "https://medtrica.com/find-better-transfer-belt-patients-mobility/": "post-sitemap.xml",
+    "https://medtrica.com/buy-best-fitted-mattress-cover-hospital-beds/": "post-sitemap.xml",
+    "https://medtrica.com/buyers-guide-know-benefits-using-overlay-mattress/": "post-sitemap.xml",
+    "https://medtrica.com/choose-overlay-mattress-suit-needs/": "post-sitemap.xml",
+    "https://medtrica.com/choose-right-mattress-covers-protect-mattress-5-solid-tips/": "post-sitemap.xml",
+    "https://medtrica.com/factors-one-look-buying-table-pad-cover/": "post-sitemap.xml",
+    "https://medtrica.com/things-you-should-keep-in-mind-before-selecting-memory-foam-mattress-topper/": "post-sitemap.xml",
+    "https://medtrica.com/choose-best-positioning-pillows-good-night-sleep/": "post-sitemap.xml",
+    "https://medtrica.com/choosing-the-right-king-size-tempurpedic-mattress-to-suit-your-needs/": "post-sitemap.xml",
+    "https://medtrica.com/essential-tips-for-choosing-the-best-queen-size-tempurpedic-mattress/": "post-sitemap.xml",
+    "https://medtrica.com/6-benefits-using-positioning-pillows/": "post-sitemap.xml",
+    "https://medtrica.com/use-x-ray-pads-help-protect-x-ray-table/": "post-sitemap.xml",
+    "https://medtrica.com/bariatric-mattresses-provide-care-comfort-better-sleep/": "post-sitemap.xml",
+    "https://medtrica.com/everything-you-should-know-about-tempurpedic-mattress/": "post-sitemap.xml",
+    "https://medtrica.com/best-mattress-for-hip-pain-hip-bursitis-the-ultimate-buyers-guide/": "post-sitemap.xml",
+    "https://medtrica.com/the-ultimate-guide-on-the-best-mattress-for-adjustable-bed/": "post-sitemap.xml",
+    "https://medtrica.com/looking-for-a-memory-foam-mattress-heres-what-you-need-to-know/": "post-sitemap.xml",
+    "https://medtrica.com/know-benefits-velcro-safety-straps-table/": "post-sitemap.xml",
+    "https://medtrica.com/5-types-best-hospital-bed-mattresses-heavy-people/": "post-sitemap.xml",
+    "https://medtrica.com/need-know-therapeutic-mattresses/": "post-sitemap.xml",
+    "https://medtrica.com/how-to-choose-a-custom-size-mattress-for-hospital-bed/": "post-sitemap.xml",
+    "https://medtrica.com/5-benefits-therapeutic-bed-mattress-probably-didnt-know/": "post-sitemap.xml",
+    "https://medtrica.com/shocking-benefits-bariatric-mattress-heavy-people/": "post-sitemap.xml",
+    "https://medtrica.com/what-is-gait-belt-how-to-use-and-benefits-of-using-gait-belt/": "post-sitemap.xml",
+    "https://medtrica.com/how-to-pick-memory-foam-mattress-thickness-the-ultimate-guide/": "post-sitemap.xml",
+    "https://medtrica.com/fitted-vs-zippered-mattress-covers-one-choose/": "post-sitemap.xml",
+    "https://medtrica.com/enjoy-comfortable-sleep-memory-foam-mattress/": "post-sitemap.xml",
+    "https://medtrica.com/ulnar-nerve-elbow-pad-protector/": "post-sitemap.xml",
+    "https://medtrica.com/choose-best-pressure-relief-mattress/": "post-sitemap.xml",
+    "https://medtrica.com/positioning-pillows-helping-getting-sleep-support-comfort-need/": "post-sitemap.xml",
+    "https://medtrica.com/explain-briefly-use-hospital-air-mattress/": "post-sitemap.xml",
+    "https://medtrica.com/tips-purchasing-right-stretcher-mattress/": "post-sitemap.xml",
+    "https://medtrica.com/how-to-choose-the-best-mattress-for-side-sleepers/": "post-sitemap.xml",
+    "https://medtrica.com/how-to-choose-right-mattress-for-back-pain/": "post-sitemap.xml",
+    "https://medtrica.com/best-mattresses-for-fibromyalgia-reviews-and-buyers-guide/": "post-sitemap.xml",
+    "https://medtrica.com/hospital-bed-mattress-size-and-dimensions/": "post-sitemap.xml",
+    "https://medtrica.com/solid-reasons-to-choose-padded-gait-belt-with-handles/": "post-sitemap.xml",
+    "https://medtrica.com/": "page-sitemap.xml",
+    "https://medtrica.com/cart/": "page-sitemap.xml",
+    "https://medtrica.com/products/": "product-sitemap.xml",
+    "https://medtrica.com/sitemap/": "page-sitemap.xml",
+    "https://medtrica.com/test/": "page-sitemap.xml",
+    "https://medtrica.com/contact-us/": "page-sitemap.xml",
+    "https://medtrica.com/test-3/": "page-sitemap.xml",
+    "https://medtrica.com/oem-private-label/": "page-sitemap.xml",
+    "https://medtrica.com/about/": "page-sitemap.xml",
+    "https://medtrica.com/what-is-gait-belt-how-to-use-and-benefits-of-using-gait-belt/gait-belt-2/": "attachment-sitemap.xml",
+    "https://medtrica.com/what-is-gait-belt-how-to-use-and-benefits-of-using-gait-belt/gait-belt-3/": "attachment-sitemap.xml",
+    "https://medtrica.com/what-is-tempur-pedic-mattress-and-their-health-benefits/health-benefits-of-a-theraputic-mattress/": "attachment-sitemap.xml",
+    "https://medtrica.com/explain-briefly-use-hospital-air-mattress/hospital-air-mattress/": "attachment-sitemap.xml",
+    "https://medtrica.com/what-is-gait-belt-how-to-use-and-benefits-of-using-gait-belt/gait-belt-4/": "attachment-sitemap.xml",
+    "https://medtrica.com/explain-briefly-use-hospital-air-mattress/photo-1519494080410-f9aa76cb4283/": "attachment-sitemap.xml",
+    "https://medtrica.com/explain-briefly-use-hospital-air-mattress/photo-1519494080410-f9aa76cb4283-2/": "attachment-sitemap.xml",
+    "https://medtrica.com/tips-purchasing-right-stretcher-mattress/hospital-bed-1229668/": "attachment-sitemap.xml",
+    "https://medtrica.com/5-benefits-therapeutic-bed-mattress-probably-didnt-know/martha-dominguez-de-gouveia-473064-unsplash/": "attachment-sitemap.xml",
+    "https://medtrica.com/need-know-hospital-bed-mattress-suits-needs/hospital-1477433/": "attachment-sitemap.xml",
+    "https://medtrica.com/what-is-tempur-pedic-mattress-and-their-health-benefits/hospital-527623-2/": "attachment-sitemap.xml",
+    "https://medtrica.com/what-is-tempur-pedic-mattress-and-their-health-benefits/hospital-527623/": "attachment-sitemap.xml",
+    "https://medtrica.com/know-benefits-velcro-safety-straps-table/hospital-1477433-2/": "attachment-sitemap.xml",
+    "https://medtrica.com/how-to-choose-the-right-thickness-of-memory-foam-mattress-topper/memeory-foam-mattress-topper/": "attachment-sitemap.xml",
+    "https://medtrica.com/things-you-should-keep-in-mind-before-selecting-memory-foam-mattress-topper/best-memeory-foam-mattress-topper/": "attachment-sitemap.xml",
+    "https://medtrica.com/find-better-transfer-belt-patients-mobility/olympus-digital-camera-6/": "attachment-sitemap.xml",
+    "https://medtrica.com/tips-purchasing-right-stretcher-mattress/hospital-bed-1229668-2/": "attachment-sitemap.xml",
+    "https://medtrica.com/the-ultimate-guide-on-the-best-mattress-for-adjustable-bed/hospital-room-with-beds-comfortable-medical-equipped-modern-hospital_29285-1917/": "attachment-sitemap.xml",
+    "https://medtrica.com/factors-one-look-buying-table-pad-cover/hospital-1477433-3/": "attachment-sitemap.xml",
+    "https://medtrica.com/choose-best-positioning-pillows-good-night-sleep/foam-shapes-3-1/": "attachment-sitemap.xml",
+    "https://medtrica.com/choosing-the-right-king-size-tempurpedic-mattress-to-suit-your-needs/close-up-man-lifted-mattress-look-bed-frame_85574-1626/": "attachment-sitemap.xml",
+    "https://medtrica.com/essential-tips-for-choosing-the-best-queen-size-tempurpedic-mattress/man-inspects-mattress-mattress-store_85574-6619/": "attachment-sitemap.xml",
+    "https://medtrica.com/6-benefits-using-positioning-pillows/positioning-pillows-2/": "attachment-sitemap.xml",
+    "https://medtrica.com/use-x-ray-pads-help-protect-x-ray-table/x-ray-table-pads/": "attachment-sitemap.xml",
+    "https://medtrica.com/best-mattresses-for-fibromyalgia-reviews-and-buyers-guide/rsz_mattresses_for_fibromyalgia/": "attachment-sitemap.xml",
+    "https://medtrica.com/hospital-bed-mattress-size-and-dimensions/hospital-bed-mattress-size-and-dimensions-2/": "attachment-sitemap.xml",
+    "https://medtrica.com/shocking-benefits-bariatric-mattress-heavy-people/best-mattress-for-heavy-people/": "attachment-sitemap.xml",
+    "https://medtrica.com/solid-reasons-to-choose-padded-gait-belt-with-handles/standard-cotton-gait-belt-single-or-pack-of-8/": "attachment-sitemap.xml",
+    "https://medtrica.com/solid-reasons-to-choose-padded-gait-belt-with-handles/posey-quick-release-gait-belt/": "attachment-sitemap.xml",
+    "https://medtrica.com/best-mattress-for-hip-pain-hip-bursitis-the-ultimate-buyers-guide/latex-mattress/": "attachment-sitemap.xml",
+    "https://medtrica.com/what-is-gait-belt-how-to-use-and-benefits-of-using-gait-belt/benefits-of-gait-belt/": "attachment-sitemap.xml",
+    "https://medtrica.com/how-to-choose-the-best-mattress-for-side-sleepers/memory-foam/": "attachment-sitemap.xml",
+    "https://medtrica.com/what-is-gait-belt-how-to-use-and-benefits-of-using-gait-belt/benefits-of-gait-belt-2/": "attachment-sitemap.xml",
+    "https://medtrica.com/what-is-gait-belt-how-to-use-and-benefits-of-using-gait-belt/gait_belt/": "attachment-sitemap.xml",
+    "https://medtrica.com/what-is-gait-belt-how-to-use-and-benefits-of-using-gait-belt/gait_belt-2/": "attachment-sitemap.xml",
+    "https://medtrica.com/how-to-choose-right-mattress-for-back-pain/memory-foam-2/": "attachment-sitemap.xml",
+    "https://medtrica.com/looking-for-a-memory-foam-mattress-heres-what-you-need-to-know/top-benefits-of-memory-foam/": "attachment-sitemap.xml",
+    "https://medtrica.com/what-is-gait-belt-how-to-use-and-benefits-of-using-gait-belt/gait_belt-3/": "attachment-sitemap.xml",
+    "https://medtrica.com/know-benefits-velcro-safety-straps-table/benefits-of-velcro-straps/": "attachment-sitemap.xml",
+    "https://medtrica.com/know-benefits-velcro-safety-straps-table/velcro-straps-image/": "attachment-sitemap.xml",
+    "https://medtrica.com/know-benefits-velcro-safety-straps-table/medical_velcro_straps-image/": "attachment-sitemap.xml",
+    "https://medtrica.com/know-benefits-velcro-safety-straps-table/medical_velcro_straps-image-2/": "attachment-sitemap.xml",
+    "https://medtrica.com/5-types-best-hospital-bed-mattresses-heavy-people/therapeutic-mattresses-2/": "attachment-sitemap.xml",
+    "https://medtrica.com/5-types-best-hospital-bed-mattresses-heavy-people/medical-air-mattresses/": "attachment-sitemap.xml",
+    "https://medtrica.com/5-types-best-hospital-bed-mattresses-heavy-people/overlay-mattresses/": "attachment-sitemap.xml",
+    "https://medtrica.com/need-know-therapeutic-mattresses/benefits_of_the_47521693/": "attachment-sitemap.xml",
+    "https://medtrica.com/explain-briefly-use-hospital-air-mattress/best_hospital_b_47521693/": "attachment-sitemap.xml",
+    "https://medtrica.com/best-mattresses-for-fibromyalgia-reviews-and-buyers-guide/latex-mattress-7/": "attachment-sitemap.xml",
+    "https://medtrica.com/how-to-choose-a-custom-size-mattress-for-hospital-bed/hopital_bed_mattress/": "attachment-sitemap.xml",
+    "https://medtrica.com/how-to-choose-a-custom-size-mattress-for-hospital-bed/custom-sized-hospital-bed-mattress/": "attachment-sitemap.xml",
+    "https://medtrica.com/how-to-choose-a-custom-size-mattress-for-hospital-bed/custom-memory-foam-mattress/": "attachment-sitemap.xml",
+    "https://medtrica.com/how-to-choose-a-custom-size-mattress-for-hospital-bed/custom-size-overlay-mattress/": "attachment-sitemap.xml",
+    "https://medtrica.com/5-benefits-therapeutic-bed-mattress-probably-didnt-know/therapeutic-bed-mattress/": "attachment-sitemap.xml",
+    "https://medtrica.com/explain-briefly-use-hospital-air-mattress/explain-briefly-about-the-use-of-hospital-air-mattress/": "attachment-sitemap.xml",
+    "https://medtrica.com/fitted-vs-zippered-mattress-covers-one-choose/zippered-mattress/": "attachment-sitemap.xml",
+    "https://medtrica.com/fitted-vs-zippered-mattress-covers-one-choose/fitted-vs-zippered-mattress-covers/": "attachment-sitemap.xml",
+    "https://medtrica.com/fitted-vs-zippered-mattress-covers-one-choose/fitted-vs-zippered-mattress-cover/": "attachment-sitemap.xml",
+    "https://medtrica.com/ulnar-nerve-elbow-pad-protector/ulnar-nerve-elbow-protector-medtrica/": "attachment-sitemap.xml",
+    "https://medtrica.com/ulnar-nerve-elbow-pad-protector/medtrica-2/": "attachment-sitemap.xml",
+    "https://medtrica.com/positioning-pillows-helping-getting-sleep-support-comfort-need/positioning-pillows-can-improve-your-sleep-and-make-you-feel-comfortable-during-the-night-or-day/": "attachment-sitemap.xml",
+    "https://medtrica.com/oem-private-label/large-pdf-icon-png/": "attachment-sitemap.xml",
+    "https://medtrica.com/about/patients-img-jpg/": "attachment-sitemap.xml",
+    "https://medtrica.com/about/www-fda-gov/": "attachment-sitemap.xml",
+    "https://medtrica.com/about/health-canada-html/": "attachment-sitemap.xml",
+    "https://medtrica.com/about/index-aspx/": "attachment-sitemap.xml",
+    "https://medtrica.com/about/large-pdf-icon1-png/": "attachment-sitemap.xml",
+    "https://medtrica.com/about/your-patients-img-jpg/": "attachment-sitemap.xml",
+    "https://medtrica.com/home/www-fda1-gov/": "attachment-sitemap.xml",
+    "https://medtrica.com/home/health-canada1-html/": "attachment-sitemap.xml",
+    "https://medtrica.com/home/index1-aspx/": "attachment-sitemap.xml",
+    "https://medtrica.com/positioning-pillows-helping-getting-sleep-support-comfort-need/skmedtricapositioningpillowselderlyrefnb_sb_noss/": "attachment-sitemap.xml",
+    "https://medtrica.com/explain-briefly-use-hospital-air-mattress/download/": "attachment-sitemap.xml",
+    "https://medtrica.com/tips-purchasing-right-stretcher-mattress/intensive_care_unit/": "attachment-sitemap.xml",
+    "https://medtrica.com/how-to-choose-the-best-mattress-for-side-sleepers/best-sleep-position/": "attachment-sitemap.xml",
+    "https://medtrica.com/how-to-choose-the-best-mattress-for-side-sleepers/best_sleeping_positions_sleep/": "attachment-sitemap.xml",
+    "https://medtrica.com/how-to-choose-right-mattress-for-back-pain/back-pain-facts-and-statistics/": "attachment-sitemap.xml",
+    "https://medtrica.com/how-to-choose-right-mattress-for-back-pain/mattress-firmness-guide/": "attachment-sitemap.xml",
+    "https://medtrica.com/home/banner-main/": "attachment-sitemap.xml",
+    "https://medtrica.com/misc-positioning-strap/": "product-sitemap.xml",
+    "https://medtrica.com/rectangular-positioning-pads/": "product-sitemap.xml",
+    "https://medtrica.com/misc/": "product-sitemap.xml",
+    "https://medtrica.com/bed-side-rail-pads/": "product-sitemap.xml",
+    "https://medtrica.com/floor-pads/": "product-sitemap.xml",
+    "https://medtrica.com/ge/": "product-sitemap.xml",
+    "https://medtrica.com/surgery-table-strap-vinyl-nylon/": "product-sitemap.xml",
+    "https://medtrica.com/steris/": "product-sitemap.xml",
+    "https://medtrica.com/allegro/": "product-sitemap.xml",
+    "https://medtrica.com/berchtold/": "product-sitemap.xml",
+    "https://medtrica.com/maquet/": "product-sitemap.xml",
+    "https://medtrica.com/midmark/": "product-sitemap.xml",
+    "https://medtrica.com/osi/": "product-sitemap.xml",
+    "https://medtrica.com/symmetry-plus-mattress/": "product-sitemap.xml",
+    "https://medtrica.com/memory-flex-5-0-mattress-xt/": "product-sitemap.xml",
+    "https://medtrica.com/memory-flex-3-0-mattress-xt/": "product-sitemap.xml",
+    "https://medtrica.com/symmetry-plus-mattress-xt/": "product-sitemap.xml",
+    "https://medtrica.com/symmetry-mattress-xt/": "product-sitemap.xml",
+    "https://medtrica.com/flat-foam-overlay/": "product-sitemap.xml",
+    "https://medtrica.com/flat-memory-foam/": "product-sitemap.xml",
+    "https://medtrica.com/standard-mattress/": "product-sitemap.xml",
+    "https://medtrica.com/solacare-memory-flex-max-air/": "product-sitemap.xml",
+    "https://medtrica.com/mattres-cover/": "product-sitemap.xml",
+    "https://medtrica.com/convoluted-memory-foam/": "product-sitemap.xml",
+    "https://medtrica.com/shampaine/": "product-sitemap.xml",
+    "https://medtrica.com/lift-sheet/": "product-sitemap.xml",
+    "https://medtrica.com/phillips/": "product-sitemap.xml",
+    "https://medtrica.com/convoluted-foam-overlay/": "product-sitemap.xml",
+    "https://medtrica.com/amsco/": "product-sitemap.xml",
+    "https://medtrica.com/solacare-memory-flex-5-0/": "product-sitemap.xml",
+    "https://medtrica.com/memory-flex-3-0-mattress/": "product-sitemap.xml",
+    "https://medtrica.com/custom-size-memory-foam-mattress/": "product-sitemap.xml",
+    "https://medtrica.com/symmetry-mattress/": "product-sitemap.xml",
+    "https://medtrica.com/isosceles-wedge-positioning/": "product-sitemap.xml",
+    "https://medtrica.com/gait-belt/": "product-sitemap.xml",
+    "https://medtrica.com/siemens/": "product-sitemap.xml",
+    "https://medtrica.com/skytron/": "product-sitemap.xml",
+    "https://medtrica.com/crib-mattress/": "product-sitemap.xml",
+    "https://medtrica.com/bassinet-mattress-covers-pad/": "product-sitemap.xml",
+    "https://medtrica.com/o-r-surgery-table-straps-rubber/": "product-sitemap.xml",
+    "https://medtrica.com/angled-bolster/": "product-sitemap.xml",
+    "https://medtrica.com/circle-positioning-pads/": "product-sitemap.xml",
+    "https://medtrica.com/donut-positioning-pads/": "product-sitemap.xml",
+    "https://medtrica.com/half-full-roll-positioning/": "product-sitemap.xml",
+    "https://medtrica.com/misc-positioning-pads/": "product-sitemap.xml",
+    "https://medtrica.com/medical-imaging-x-ray-table-strap/": "product-sitemap.xml",
+    "https://medtrica.com/velcro/": "product-sitemap.xml",
+    "https://medtrica.com/sandbags/": "product-sitemap.xml",
+    "https://medtrica.com/psych-symmetry-mattress/": "product-sitemap.xml",
+    "https://medtrica.com/psych-standard-mattress/": "product-sitemap.xml",
+    "https://medtrica.com/safe-room-mattress/": "product-sitemap.xml",
+    "https://medtrica.com/arm-board-strap/": "product-sitemap.xml",
+    "https://medtrica.com/lift-belts/": "product-sitemap.xml",
+    "https://medtrica.com/biodegradable-disinfecting-wipes-160/": "product-sitemap.xml",
+    "https://medtrica.com/biodegradable-disinfecting-wipes-40/": "product-sitemap.xml",
+    "https://medtrica.com/all-in-one-disinfecting-cleaner/": "product-sitemap.xml",
+    "https://medtrica.com/appli-kit/": "product-sitemap.xml",
+    "https://medtrica.com/d-zyme-concentrate/": "product-sitemap.xml",
+    "https://medtrica.com/d-zyme-sponge/": "product-sitemap.xml",
+    "https://medtrica.com/emergency-response-cot-mattress/": "product-sitemap.xml",
+    "https://medtrica.com/emergency-response-hospital-bed-mattress/": "product-sitemap.xml",
+    "https://medtrica.com/enzymatic-spray-gel/": "product-sitemap.xml",
+    "https://medtrica.com/emergency-response-body-bags/": "product-sitemap.xml",
+    "https://medtrica.com/stryker-stretcher-mattresses/": "product-sitemap.xml",
+    "https://medtrica.com/pedigo-stretcher-mattresses/": "product-sitemap.xml",
+    "https://medtrica.com/hausted-models-2/": "product-sitemap.xml",
+    "https://medtrica.com/custom-models/": "product-sitemap.xml",
+    "https://medtrica.com/hill-rom-models/": "product-sitemap.xml",
+    "https://medtrica.com/scope-sleeve/": "product-sitemap.xml",
+    "https://medtrica.com/endoscope-tip-protectors/": "product-sitemap.xml",
+    "https://medtrica.com/durasponge/": "product-sitemap.xml",
+    "https://medtrica.com/blog/category/bariatric-mattress/": "category-sitemap.xml",
+    "https://medtrica.com/blog/category/gait-transfer-belt/": "category-sitemap.xml",
+    "https://medtrica.com/blog/category/velcro-straps/": "category-sitemap.xml",
+    "https://medtrica.com/blog/category/therapeutic-bed-mattress/": "category-sitemap.xml",
+    "https://medtrica.com/blog/category/overlay-mattress/": "category-sitemap.xml",
+    "https://medtrica.com/blog/category/mattress-cover/": "category-sitemap.xml",
+    "https://medtrica.com/blog/category/memory-foam-mattress/": "category-sitemap.xml",
+    "https://medtrica.com/blog/category/positioning-pillows/": "category-sitemap.xml",
+    "https://medtrica.com/blog/category/medical-sandbags/": "category-sitemap.xml",
+    "https://medtrica.com/blog/category/news/": "category-sitemap.xml",
+    "https://medtrica.com/blog/category/endoscopy-products/": "category-sitemap.xml",
+    "https://medtrica.com/blog/category/hospital-mattress/": "category-sitemap.xml",
+    "https://medtrica.com/blog/category/x-ray-table-pads/": "category-sitemap.xml",
+    "https://medtrica.com/blog/category/stretcher-bed-mattress/": "category-sitemap.xml",
+    "https://medtrica.com/product-category/clean-disinfect/": "product_cat-sitemap.xml",
+    "https://medtrica.com/product-category/emergency-response-mattresses/": "product_cat-sitemap.xml",
+    "https://medtrica.com/product-category/emergency-response-body-bags/": "product_cat-sitemap.xml",
+    "https://medtrica.com/product-category/endoscopy-respiratory-products/precleaning/": "product_cat-sitemap.xml",
+    "https://medtrica.com/product-category/endoscopy-respiratory-products/": "product_cat-sitemap.xml",
+    "https://medtrica.com/product-category/hospital-bed-mattress/replacement-mattress/": "product_cat-sitemap.xml",
+    "https://medtrica.com/product-category/endoscopy-respiratory-products/protection/": "product_cat-sitemap.xml",
+    "https://medtrica.com/product-category/hospital-bed-mattress/": "product_cat-sitemap.xml",
+    "https://medtrica.com/product-category/memory-foam-mattress/": "product_cat-sitemap.xml",
+    "https://medtrica.com/product-category/stretcher-mattresses/": "product_cat-sitemap.xml",
+    "https://medtrica.com/product-category/hospital-bed-mattress/psychiatric-mattresses/": "product_cat-sitemap.xml",
+    "https://medtrica.com/product-category/o-r-surgery-table-pads/": "product_cat-sitemap.xml",
+    "https://medtrica.com/product-category/x-ray-table-pads/": "product_cat-sitemap.xml",
+    "https://medtrica.com/product-category/hospital-bed-mattress/overlay-mattress-pads/": "product_cat-sitemap.xml",
+    "https://medtrica.com/product-category/positioning-straps/": "product_cat-sitemap.xml",
+    "https://medtrica.com/product-category/hospital-bed-mattress/mattress-covers/": "product_cat-sitemap.xml",
+    "https://medtrica.com/product-category/hospital-bed-mattress/long-term-care/": "product_cat-sitemap.xml",
+    "https://medtrica.com/product-category/positioning-pads/": "product_cat-sitemap.xml",
+    "https://medtrica.com/product-category/hospital-bed-mattress/bariatric-mattress/": "product_cat-sitemap.xml",
+    "https://medtrica.com/product-category/patient-safety/": "product_cat-sitemap.xml",
+    "https://medtrica.com/product-category/pediatric-mattresses/": "product_cat-sitemap.xml",
+    "https://medtrica.com/product-tag/enzymatic/": "product_tag-sitemap.xml",
+    "https://medtrica.com/product-tag/non-toxic/": "product_tag-sitemap.xml",
+    "https://medtrica.com/product-tag/plant-based/": "product_tag-sitemap.xml",
+    "https://medtrica.com/product-tag/emr/": "product_tag-sitemap.xml",
+    "https://medtrica.com/product-tag/mattress/": "product_tag-sitemap.xml",
+    "https://medtrica.com/product-tag/foam/": "product_tag-sitemap.xml",
+    "https://medtrica.com/product-tag/medical-grade/": "product_tag-sitemap.xml",
+    "https://medtrica.com/product-tag/spray/": "product_tag-sitemap.xml",
+    "https://medtrica.com/product-tag/gel-multi-tiered/": "product_tag-sitemap.xml",
+    "https://medtrica.com/author/john-clark/": "author-sitemap.xml",
+    "https://medtrica.com/author/bruce-mcclain/": "author-sitemap.xml"
+  },
+  "pages": [
+    {
+      "url": "https://medtrica.com/",
+      "status": 200,
+      "final": "https://medtrica.com/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "page-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/5-benefits-therapeutic-bed-mattress-probably-didnt-know/",
+      "status": 200,
+      "final": "https://medtrica.com/5-benefits-therapeutic-bed-mattress-probably-didnt-know/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/5-benefits-therapeutic-bed-mattress-probably-didnt-know/martha-dominguez-de-gouveia-473064-unsplash/",
+      "status": 200,
+      "final": "https://medtrica.com/5-benefits-therapeutic-bed-mattress-probably-didnt-know/martha-dominguez-de-gouveia-473064-unsplash/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/5-benefits-therapeutic-bed-mattress-probably-didnt-know/therapeutic-bed-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/5-benefits-therapeutic-bed-mattress-probably-didnt-know/therapeutic-bed-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/5-types-best-hospital-bed-mattresses-heavy-people/",
+      "status": 200,
+      "final": "https://medtrica.com/5-types-best-hospital-bed-mattresses-heavy-people/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/5-types-best-hospital-bed-mattresses-heavy-people/medical-air-mattresses/",
+      "status": 200,
+      "final": "https://medtrica.com/5-types-best-hospital-bed-mattresses-heavy-people/medical-air-mattresses/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/5-types-best-hospital-bed-mattresses-heavy-people/overlay-mattresses/",
+      "status": 200,
+      "final": "https://medtrica.com/5-types-best-hospital-bed-mattresses-heavy-people/overlay-mattresses/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/5-types-best-hospital-bed-mattresses-heavy-people/therapeutic-mattresses-2/",
+      "status": 200,
+      "final": "https://medtrica.com/5-types-best-hospital-bed-mattresses-heavy-people/therapeutic-mattresses-2/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/6-benefits-using-positioning-pillows/",
+      "status": 200,
+      "final": "https://medtrica.com/6-benefits-using-positioning-pillows/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/6-benefits-using-positioning-pillows/positioning-pillows-2/",
+      "status": 200,
+      "final": "https://medtrica.com/6-benefits-using-positioning-pillows/positioning-pillows-2/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/about/",
+      "status": 200,
+      "final": "https://medtrica.com/about/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "page-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/about/health-canada-html/",
+      "status": 200,
+      "final": "https://medtrica.com/about/health-canada-html/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/about/index-aspx/",
+      "status": 200,
+      "final": "https://medtrica.com/about/index-aspx/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/about/large-pdf-icon1-png/",
+      "status": 200,
+      "final": "https://medtrica.com/about/large-pdf-icon1-png/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/about/patients-img-jpg/",
+      "status": 200,
+      "final": "https://medtrica.com/about/patients-img-jpg/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/about/www-fda-gov/",
+      "status": 200,
+      "final": "https://medtrica.com/about/www-fda-gov/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/about/your-patients-img-jpg/",
+      "status": 200,
+      "final": "https://medtrica.com/about/your-patients-img-jpg/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/all-in-one-disinfecting-cleaner/",
+      "status": 200,
+      "final": "https://medtrica.com/all-in-one-disinfecting-cleaner/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/allegro/",
+      "status": 200,
+      "final": "https://medtrica.com/allegro/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/amsco/",
+      "status": 200,
+      "final": "https://medtrica.com/amsco/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/angled-bolster/",
+      "status": 200,
+      "final": "https://medtrica.com/angled-bolster/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/appli-kit/",
+      "status": 200,
+      "final": "https://medtrica.com/appli-kit/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/arm-board-strap/",
+      "status": 200,
+      "final": "https://medtrica.com/arm-board-strap/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/author/bruce-mcclain/",
+      "status": 200,
+      "final": "https://medtrica.com/author/bruce-mcclain/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "author-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/author/john-clark/",
+      "status": 200,
+      "final": "https://medtrica.com/author/john-clark/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "author-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/bariatric-mattresses-provide-care-comfort-better-sleep/",
+      "status": 200,
+      "final": "https://medtrica.com/bariatric-mattresses-provide-care-comfort-better-sleep/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/bassinet-mattress-covers-pad/",
+      "status": 200,
+      "final": "https://medtrica.com/bassinet-mattress-covers-pad/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/bed-side-rail-pads/",
+      "status": 200,
+      "final": "https://medtrica.com/bed-side-rail-pads/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/berchtold/",
+      "status": 200,
+      "final": "https://medtrica.com/berchtold/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/best-mattress-for-hip-pain-hip-bursitis-the-ultimate-buyers-guide/",
+      "status": 200,
+      "final": "https://medtrica.com/best-mattress-for-hip-pain-hip-bursitis-the-ultimate-buyers-guide/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/best-mattress-for-hip-pain-hip-bursitis-the-ultimate-buyers-guide/latex-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/best-mattress-for-hip-pain-hip-bursitis-the-ultimate-buyers-guide/latex-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/best-mattresses-for-fibromyalgia-reviews-and-buyers-guide/",
+      "status": 200,
+      "final": "https://medtrica.com/best-mattresses-for-fibromyalgia-reviews-and-buyers-guide/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/best-mattresses-for-fibromyalgia-reviews-and-buyers-guide/latex-mattress-7/",
+      "status": 200,
+      "final": "https://medtrica.com/best-mattresses-for-fibromyalgia-reviews-and-buyers-guide/latex-mattress-7/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/best-mattresses-for-fibromyalgia-reviews-and-buyers-guide/rsz_mattresses_for_fibromyalgia/",
+      "status": 200,
+      "final": "https://medtrica.com/best-mattresses-for-fibromyalgia-reviews-and-buyers-guide/rsz_mattresses_for_fibromyalgia/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/biodegradable-disinfecting-wipes-160/",
+      "status": 200,
+      "final": "https://medtrica.com/biodegradable-disinfecting-wipes-160/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/biodegradable-disinfecting-wipes-40/",
+      "status": 200,
+      "final": "https://medtrica.com/biodegradable-disinfecting-wipes-40/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/blog/",
+      "status": 200,
+      "final": "https://medtrica.com/blog/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/blog/category/bariatric-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/blog/category/bariatric-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "category-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/blog/category/endoscopy-products/",
+      "status": 200,
+      "final": "https://medtrica.com/blog/category/endoscopy-products/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "category-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/blog/category/gait-transfer-belt/",
+      "status": 200,
+      "final": "https://medtrica.com/blog/category/gait-transfer-belt/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "category-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/blog/category/hospital-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/blog/category/hospital-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "category-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/blog/category/mattress-cover/",
+      "status": 200,
+      "final": "https://medtrica.com/blog/category/mattress-cover/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "category-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/blog/category/medical-sandbags/",
+      "status": 200,
+      "final": "https://medtrica.com/blog/category/medical-sandbags/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "category-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/blog/category/memory-foam-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/blog/category/memory-foam-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "category-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/blog/category/news/",
+      "status": 200,
+      "final": "https://medtrica.com/blog/category/news/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "category-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/blog/category/overlay-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/blog/category/overlay-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "category-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/blog/category/positioning-pillows/",
+      "status": 200,
+      "final": "https://medtrica.com/blog/category/positioning-pillows/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "category-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/blog/category/stretcher-bed-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/blog/category/stretcher-bed-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "category-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/blog/category/therapeutic-bed-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/blog/category/therapeutic-bed-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "category-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/blog/category/velcro-straps/",
+      "status": 200,
+      "final": "https://medtrica.com/blog/category/velcro-straps/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "category-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/blog/category/x-ray-table-pads/",
+      "status": 200,
+      "final": "https://medtrica.com/blog/category/x-ray-table-pads/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "category-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/buy-best-fitted-mattress-cover-hospital-beds/",
+      "status": 200,
+      "final": "https://medtrica.com/buy-best-fitted-mattress-cover-hospital-beds/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/buyers-guide-know-benefits-using-overlay-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/buyers-guide-know-benefits-using-overlay-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/cart/",
+      "status": 200,
+      "final": "https://medtrica.com/cart/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "page-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/choose-best-positioning-pillows-good-night-sleep/",
+      "status": 200,
+      "final": "https://medtrica.com/choose-best-positioning-pillows-good-night-sleep/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/choose-best-positioning-pillows-good-night-sleep/foam-shapes-3-1/",
+      "status": 200,
+      "final": "https://medtrica.com/choose-best-positioning-pillows-good-night-sleep/foam-shapes-3-1/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/choose-best-pressure-relief-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/choose-best-pressure-relief-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/choose-overlay-mattress-suit-needs/",
+      "status": 200,
+      "final": "https://medtrica.com/choose-overlay-mattress-suit-needs/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/choose-right-mattress-covers-protect-mattress-5-solid-tips/",
+      "status": 200,
+      "final": "https://medtrica.com/choose-right-mattress-covers-protect-mattress-5-solid-tips/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/choosing-the-right-king-size-tempurpedic-mattress-to-suit-your-needs/",
+      "status": 200,
+      "final": "https://medtrica.com/choosing-the-right-king-size-tempurpedic-mattress-to-suit-your-needs/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/choosing-the-right-king-size-tempurpedic-mattress-to-suit-your-needs/close-up-man-lifted-mattress-look-bed-frame_85574-1626/",
+      "status": 200,
+      "final": "https://medtrica.com/choosing-the-right-king-size-tempurpedic-mattress-to-suit-your-needs/close-up-man-lifted-mattress-look-bed-frame_85574-1626/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/circle-positioning-pads/",
+      "status": 200,
+      "final": "https://medtrica.com/circle-positioning-pads/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/contact-us/",
+      "status": 200,
+      "final": "https://medtrica.com/contact-us/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "page-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/convoluted-foam-overlay/",
+      "status": 200,
+      "final": "https://medtrica.com/convoluted-foam-overlay/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/convoluted-memory-foam/",
+      "status": 200,
+      "final": "https://medtrica.com/convoluted-memory-foam/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/crib-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/crib-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/custom-models/",
+      "status": 200,
+      "final": "https://medtrica.com/custom-models/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/custom-size-memory-foam-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/custom-size-memory-foam-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/d-zyme-concentrate/",
+      "status": 200,
+      "final": "https://medtrica.com/d-zyme-concentrate/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/d-zyme-sponge/",
+      "status": 200,
+      "final": "https://medtrica.com/d-zyme-sponge/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/donut-positioning-pads/",
+      "status": 200,
+      "final": "https://medtrica.com/donut-positioning-pads/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/durasponge/",
+      "status": 200,
+      "final": "https://medtrica.com/durasponge/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/emergency-response-body-bags/",
+      "status": 200,
+      "final": "https://medtrica.com/emergency-response-body-bags/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/emergency-response-cot-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/emergency-response-cot-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/emergency-response-hospital-bed-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/emergency-response-hospital-bed-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/endoscope-tip-protectors/",
+      "status": 200,
+      "final": "https://medtrica.com/endoscope-tip-protectors/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/enjoy-comfortable-sleep-memory-foam-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/enjoy-comfortable-sleep-memory-foam-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/enzymatic-spray-gel/",
+      "status": 200,
+      "final": "https://medtrica.com/enzymatic-spray-gel/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/essential-tips-for-choosing-the-best-queen-size-tempurpedic-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/essential-tips-for-choosing-the-best-queen-size-tempurpedic-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/essential-tips-for-choosing-the-best-queen-size-tempurpedic-mattress/man-inspects-mattress-mattress-store_85574-6619/",
+      "status": 200,
+      "final": "https://medtrica.com/essential-tips-for-choosing-the-best-queen-size-tempurpedic-mattress/man-inspects-mattress-mattress-store_85574-6619/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/everything-you-should-know-about-tempurpedic-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/everything-you-should-know-about-tempurpedic-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/explain-briefly-use-hospital-air-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/explain-briefly-use-hospital-air-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/explain-briefly-use-hospital-air-mattress/best_hospital_b_47521693/",
+      "status": 200,
+      "final": "https://medtrica.com/explain-briefly-use-hospital-air-mattress/best_hospital_b_47521693/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/explain-briefly-use-hospital-air-mattress/download/",
+      "status": 200,
+      "final": "https://medtrica.com/explain-briefly-use-hospital-air-mattress/download/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/explain-briefly-use-hospital-air-mattress/explain-briefly-about-the-use-of-hospital-air-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/explain-briefly-use-hospital-air-mattress/explain-briefly-about-the-use-of-hospital-air-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/explain-briefly-use-hospital-air-mattress/hospital-air-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/explain-briefly-use-hospital-air-mattress/hospital-air-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/explain-briefly-use-hospital-air-mattress/photo-1519494080410-f9aa76cb4283-2/",
+      "status": 200,
+      "final": "https://medtrica.com/explain-briefly-use-hospital-air-mattress/photo-1519494080410-f9aa76cb4283-2/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/explain-briefly-use-hospital-air-mattress/photo-1519494080410-f9aa76cb4283/",
+      "status": 200,
+      "final": "https://medtrica.com/explain-briefly-use-hospital-air-mattress/photo-1519494080410-f9aa76cb4283/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/factors-one-look-buying-table-pad-cover/",
+      "status": 200,
+      "final": "https://medtrica.com/factors-one-look-buying-table-pad-cover/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/factors-one-look-buying-table-pad-cover/hospital-1477433-3/",
+      "status": 200,
+      "final": "https://medtrica.com/factors-one-look-buying-table-pad-cover/hospital-1477433-3/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/find-better-transfer-belt-patients-mobility/",
+      "status": 200,
+      "final": "https://medtrica.com/find-better-transfer-belt-patients-mobility/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/find-better-transfer-belt-patients-mobility/olympus-digital-camera-6/",
+      "status": 200,
+      "final": "https://medtrica.com/find-better-transfer-belt-patients-mobility/olympus-digital-camera-6/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/fitted-vs-zippered-mattress-covers-one-choose/",
+      "status": 200,
+      "final": "https://medtrica.com/fitted-vs-zippered-mattress-covers-one-choose/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/fitted-vs-zippered-mattress-covers-one-choose/fitted-vs-zippered-mattress-cover/",
+      "status": 200,
+      "final": "https://medtrica.com/fitted-vs-zippered-mattress-covers-one-choose/fitted-vs-zippered-mattress-cover/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/fitted-vs-zippered-mattress-covers-one-choose/fitted-vs-zippered-mattress-covers/",
+      "status": 200,
+      "final": "https://medtrica.com/fitted-vs-zippered-mattress-covers-one-choose/fitted-vs-zippered-mattress-covers/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/fitted-vs-zippered-mattress-covers-one-choose/zippered-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/fitted-vs-zippered-mattress-covers-one-choose/zippered-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/flat-foam-overlay/",
+      "status": 200,
+      "final": "https://medtrica.com/flat-foam-overlay/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/flat-memory-foam/",
+      "status": 200,
+      "final": "https://medtrica.com/flat-memory-foam/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/floor-pads/",
+      "status": 200,
+      "final": "https://medtrica.com/floor-pads/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/gait-belt/",
+      "status": 200,
+      "final": "https://medtrica.com/gait-belt/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/ge/",
+      "status": 200,
+      "final": "https://medtrica.com/ge/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/half-full-roll-positioning/",
+      "status": 200,
+      "final": "https://medtrica.com/half-full-roll-positioning/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/hausted-models-2/",
+      "status": 200,
+      "final": "https://medtrica.com/hausted-models-2/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/hill-rom-models/",
+      "status": 200,
+      "final": "https://medtrica.com/hill-rom-models/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/home/banner-main/",
+      "status": 200,
+      "final": "https://medtrica.com/home/banner-main/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/home/health-canada1-html/",
+      "status": 200,
+      "final": "https://medtrica.com/home/health-canada1-html/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/home/index1-aspx/",
+      "status": 200,
+      "final": "https://medtrica.com/home/index1-aspx/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/home/www-fda1-gov/",
+      "status": 200,
+      "final": "https://medtrica.com/home/www-fda1-gov/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/hospital-bed-mattress-size-and-dimensions/",
+      "status": 200,
+      "final": "https://medtrica.com/hospital-bed-mattress-size-and-dimensions/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/hospital-bed-mattress-size-and-dimensions/hospital-bed-mattress-size-and-dimensions-2/",
+      "status": 200,
+      "final": "https://medtrica.com/hospital-bed-mattress-size-and-dimensions/hospital-bed-mattress-size-and-dimensions-2/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/how-to-choose-a-custom-size-mattress-for-hospital-bed/",
+      "status": 200,
+      "final": "https://medtrica.com/how-to-choose-a-custom-size-mattress-for-hospital-bed/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/how-to-choose-a-custom-size-mattress-for-hospital-bed/custom-memory-foam-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/how-to-choose-a-custom-size-mattress-for-hospital-bed/custom-memory-foam-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/how-to-choose-a-custom-size-mattress-for-hospital-bed/custom-size-overlay-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/how-to-choose-a-custom-size-mattress-for-hospital-bed/custom-size-overlay-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/how-to-choose-a-custom-size-mattress-for-hospital-bed/custom-sized-hospital-bed-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/how-to-choose-a-custom-size-mattress-for-hospital-bed/custom-sized-hospital-bed-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/how-to-choose-a-custom-size-mattress-for-hospital-bed/hopital_bed_mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/how-to-choose-a-custom-size-mattress-for-hospital-bed/hopital_bed_mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/how-to-choose-right-mattress-for-back-pain/",
+      "status": 200,
+      "final": "https://medtrica.com/how-to-choose-right-mattress-for-back-pain/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/how-to-choose-right-mattress-for-back-pain/back-pain-facts-and-statistics/",
+      "status": 200,
+      "final": "https://medtrica.com/how-to-choose-right-mattress-for-back-pain/back-pain-facts-and-statistics/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/how-to-choose-right-mattress-for-back-pain/mattress-firmness-guide/",
+      "status": 200,
+      "final": "https://medtrica.com/how-to-choose-right-mattress-for-back-pain/mattress-firmness-guide/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/how-to-choose-right-mattress-for-back-pain/memory-foam-2/",
+      "status": 200,
+      "final": "https://medtrica.com/how-to-choose-right-mattress-for-back-pain/memory-foam-2/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/how-to-choose-the-best-mattress-for-side-sleepers/",
+      "status": 200,
+      "final": "https://medtrica.com/how-to-choose-the-best-mattress-for-side-sleepers/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/how-to-choose-the-best-mattress-for-side-sleepers/best-sleep-position/",
+      "status": 200,
+      "final": "https://medtrica.com/how-to-choose-the-best-mattress-for-side-sleepers/best-sleep-position/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/how-to-choose-the-best-mattress-for-side-sleepers/best_sleeping_positions_sleep/",
+      "status": 200,
+      "final": "https://medtrica.com/how-to-choose-the-best-mattress-for-side-sleepers/best_sleeping_positions_sleep/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/how-to-choose-the-best-mattress-for-side-sleepers/memory-foam/",
+      "status": 200,
+      "final": "https://medtrica.com/how-to-choose-the-best-mattress-for-side-sleepers/memory-foam/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/how-to-choose-the-right-thickness-of-memory-foam-mattress-topper/",
+      "status": 200,
+      "final": "https://medtrica.com/how-to-choose-the-right-thickness-of-memory-foam-mattress-topper/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/how-to-choose-the-right-thickness-of-memory-foam-mattress-topper/memeory-foam-mattress-topper/",
+      "status": 200,
+      "final": "https://medtrica.com/how-to-choose-the-right-thickness-of-memory-foam-mattress-topper/memeory-foam-mattress-topper/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/how-to-pick-memory-foam-mattress-thickness-the-ultimate-guide/",
+      "status": 200,
+      "final": "https://medtrica.com/how-to-pick-memory-foam-mattress-thickness-the-ultimate-guide/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/how-to-protect-your-endoscope/",
+      "status": 200,
+      "final": "https://medtrica.com/how-to-protect-your-endoscope/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/isosceles-wedge-positioning/",
+      "status": 200,
+      "final": "https://medtrica.com/isosceles-wedge-positioning/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/know-benefits-velcro-safety-straps-table/",
+      "status": 200,
+      "final": "https://medtrica.com/know-benefits-velcro-safety-straps-table/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/know-benefits-velcro-safety-straps-table/benefits-of-velcro-straps/",
+      "status": 200,
+      "final": "https://medtrica.com/know-benefits-velcro-safety-straps-table/benefits-of-velcro-straps/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/know-benefits-velcro-safety-straps-table/hospital-1477433-2/",
+      "status": 200,
+      "final": "https://medtrica.com/know-benefits-velcro-safety-straps-table/hospital-1477433-2/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/know-benefits-velcro-safety-straps-table/medical_velcro_straps-image-2/",
+      "status": 200,
+      "final": "https://medtrica.com/know-benefits-velcro-safety-straps-table/medical_velcro_straps-image-2/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/know-benefits-velcro-safety-straps-table/medical_velcro_straps-image/",
+      "status": 200,
+      "final": "https://medtrica.com/know-benefits-velcro-safety-straps-table/medical_velcro_straps-image/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/know-benefits-velcro-safety-straps-table/velcro-straps-image/",
+      "status": 200,
+      "final": "https://medtrica.com/know-benefits-velcro-safety-straps-table/velcro-straps-image/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/lift-belts/",
+      "status": 200,
+      "final": "https://medtrica.com/lift-belts/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/lift-sheet/",
+      "status": 200,
+      "final": "https://medtrica.com/lift-sheet/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/looking-for-a-memory-foam-mattress-heres-what-you-need-to-know/",
+      "status": 200,
+      "final": "https://medtrica.com/looking-for-a-memory-foam-mattress-heres-what-you-need-to-know/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/looking-for-a-memory-foam-mattress-heres-what-you-need-to-know/top-benefits-of-memory-foam/",
+      "status": 200,
+      "final": "https://medtrica.com/looking-for-a-memory-foam-mattress-heres-what-you-need-to-know/top-benefits-of-memory-foam/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/maquet/",
+      "status": 200,
+      "final": "https://medtrica.com/maquet/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/mattres-cover/",
+      "status": 200,
+      "final": "https://medtrica.com/mattres-cover/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/medical-imaging-x-ray-table-strap/",
+      "status": 200,
+      "final": "https://medtrica.com/medical-imaging-x-ray-table-strap/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/memory-flex-3-0-mattress-xt/",
+      "status": 200,
+      "final": "https://medtrica.com/memory-flex-3-0-mattress-xt/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/memory-flex-3-0-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/memory-flex-3-0-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/memory-flex-5-0-mattress-xt/",
+      "status": 200,
+      "final": "https://medtrica.com/memory-flex-5-0-mattress-xt/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/midmark/",
+      "status": 200,
+      "final": "https://medtrica.com/midmark/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/misc-positioning-pads/",
+      "status": 200,
+      "final": "https://medtrica.com/misc-positioning-pads/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/misc-positioning-strap/",
+      "status": 200,
+      "final": "https://medtrica.com/misc-positioning-strap/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/misc/",
+      "status": 200,
+      "final": "https://medtrica.com/misc/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/need-know-hospital-bed-mattress-suits-needs/",
+      "status": 200,
+      "final": "https://medtrica.com/need-know-hospital-bed-mattress-suits-needs/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/need-know-hospital-bed-mattress-suits-needs/hospital-1477433/",
+      "status": 200,
+      "final": "https://medtrica.com/need-know-hospital-bed-mattress-suits-needs/hospital-1477433/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/need-know-therapeutic-mattresses/",
+      "status": 200,
+      "final": "https://medtrica.com/need-know-therapeutic-mattresses/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/need-know-therapeutic-mattresses/benefits_of_the_47521693/",
+      "status": 200,
+      "final": "https://medtrica.com/need-know-therapeutic-mattresses/benefits_of_the_47521693/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/o-r-surgery-table-straps-rubber/",
+      "status": 200,
+      "final": "https://medtrica.com/o-r-surgery-table-straps-rubber/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/oem-private-label/",
+      "status": 200,
+      "final": "https://medtrica.com/oem-private-label/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "page-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/oem-private-label/large-pdf-icon-png/",
+      "status": 200,
+      "final": "https://medtrica.com/oem-private-label/large-pdf-icon-png/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/osi/",
+      "status": 200,
+      "final": "https://medtrica.com/osi/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/pedigo-stretcher-mattresses/",
+      "status": 200,
+      "final": "https://medtrica.com/pedigo-stretcher-mattresses/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/performing-endoscopy-preventative-maintenance/",
+      "status": 200,
+      "final": "https://medtrica.com/performing-endoscopy-preventative-maintenance/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/phillips/",
+      "status": 200,
+      "final": "https://medtrica.com/phillips/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/pick-right-hospital-bed-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/pick-right-hospital-bed-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/positioning-pillows-helping-getting-sleep-support-comfort-need/",
+      "status": 200,
+      "final": "https://medtrica.com/positioning-pillows-helping-getting-sleep-support-comfort-need/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/positioning-pillows-helping-getting-sleep-support-comfort-need/positioning-pillows-can-improve-your-sleep-and-make-you-feel-comfortable-during-the-night-or-day/",
+      "status": 200,
+      "final": "https://medtrica.com/positioning-pillows-helping-getting-sleep-support-comfort-need/positioning-pillows-can-improve-your-sleep-and-make-you-feel-comfortable-during-the-night-or-day/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/positioning-pillows-helping-getting-sleep-support-comfort-need/skmedtricapositioningpillowselderlyrefnb_sb_noss/",
+      "status": 200,
+      "final": "https://medtrica.com/positioning-pillows-helping-getting-sleep-support-comfort-need/skmedtricapositioningpillowselderlyrefnb_sb_noss/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-category/clean-disinfect/",
+      "status": 200,
+      "final": "https://medtrica.com//clean-disinfect/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_cat-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-category/emergency-response-body-bags/",
+      "status": 200,
+      "final": "https://medtrica.com//emergency-response-body-bags/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_cat-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-category/emergency-response-mattresses/",
+      "status": 200,
+      "final": "https://medtrica.com//emergency-response-mattresses/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_cat-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-category/endoscopy-respiratory-products/",
+      "status": 200,
+      "final": "https://medtrica.com//endoscopy-respiratory-products/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_cat-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-category/endoscopy-respiratory-products/precleaning/",
+      "status": 200,
+      "final": "https://medtrica.com//endoscopy-respiratory-products/precleaning/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_cat-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-category/endoscopy-respiratory-products/protection/",
+      "status": 200,
+      "final": "https://medtrica.com//endoscopy-respiratory-products/protection/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_cat-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-category/hospital-bed-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com//hospital-bed-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_cat-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-category/hospital-bed-mattress/bariatric-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com//hospital-bed-mattress/bariatric-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_cat-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-category/hospital-bed-mattress/long-term-care/",
+      "status": 200,
+      "final": "https://medtrica.com//hospital-bed-mattress/long-term-care/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_cat-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-category/hospital-bed-mattress/mattress-covers/",
+      "status": 200,
+      "final": "https://medtrica.com//hospital-bed-mattress/mattress-covers/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_cat-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-category/hospital-bed-mattress/overlay-mattress-pads/",
+      "status": 200,
+      "final": "https://medtrica.com//hospital-bed-mattress/overlay-mattress-pads/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_cat-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-category/hospital-bed-mattress/psychiatric-mattresses/",
+      "status": 200,
+      "final": "https://medtrica.com//hospital-bed-mattress/psychiatric-mattresses/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_cat-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-category/hospital-bed-mattress/replacement-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com//hospital-bed-mattress/replacement-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_cat-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-category/memory-foam-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/hospital-bed-mattress/memory-foam-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_cat-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-category/o-r-surgery-table-pads/",
+      "status": 200,
+      "final": "https://medtrica.com//o-r-surgery-table-pads/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_cat-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-category/patient-safety/",
+      "status": 200,
+      "final": "https://medtrica.com//patient-safety/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_cat-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-category/pediatric-mattresses/",
+      "status": 200,
+      "final": "https://medtrica.com//pediatric-mattresses/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_cat-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-category/positioning-pads/",
+      "status": 200,
+      "final": "https://medtrica.com/positioning-pillows-helping-getting-sleep-support-comfort-need/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_cat-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-category/positioning-straps/",
+      "status": 200,
+      "final": "https://medtrica.com//positioning-straps/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_cat-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-category/stretcher-mattresses/",
+      "status": 200,
+      "final": "https://medtrica.com//stretcher-mattresses/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_cat-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-category/x-ray-table-pads/",
+      "status": 200,
+      "final": "https://medtrica.com//x-ray-table-pads/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_cat-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-tag/emr/",
+      "status": 200,
+      "final": "https://medtrica.com/product-tag/emr/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_tag-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-tag/enzymatic/",
+      "status": 200,
+      "final": "https://medtrica.com/product-tag/enzymatic/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_tag-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-tag/foam/",
+      "status": 200,
+      "final": "https://medtrica.com/product-tag/foam/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_tag-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-tag/gel-multi-tiered/",
+      "status": 200,
+      "final": "https://medtrica.com/product-tag/gel-multi-tiered/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_tag-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-tag/mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/product-tag/mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_tag-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-tag/medical-grade/",
+      "status": 200,
+      "final": "https://medtrica.com/product-tag/medical-grade/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_tag-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-tag/non-toxic/",
+      "status": 200,
+      "final": "https://medtrica.com/product-tag/non-toxic/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_tag-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-tag/plant-based/",
+      "status": 200,
+      "final": "https://medtrica.com/product-tag/plant-based/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_tag-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/product-tag/spray/",
+      "status": 200,
+      "final": "https://medtrica.com/product-tag/spray/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product_tag-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/products/",
+      "status": 200,
+      "final": "https://medtrica.com/products/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/psych-standard-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/psych-standard-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/psych-symmetry-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/psych-symmetry-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/rectangular-positioning-pads/",
+      "status": 200,
+      "final": "https://medtrica.com/rectangular-positioning-pads/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/safe-room-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/safe-room-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/sandbags/",
+      "status": 200,
+      "final": "https://medtrica.com/sandbags/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/scope-sleeve/",
+      "status": 200,
+      "final": "https://medtrica.com/scope-sleeve/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/shampaine/",
+      "status": 200,
+      "final": "https://medtrica.com/shampaine/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/shocking-benefits-bariatric-mattress-heavy-people/",
+      "status": 200,
+      "final": "https://medtrica.com/shocking-benefits-bariatric-mattress-heavy-people/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/shocking-benefits-bariatric-mattress-heavy-people/best-mattress-for-heavy-people/",
+      "status": 200,
+      "final": "https://medtrica.com/shocking-benefits-bariatric-mattress-heavy-people/best-mattress-for-heavy-people/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/siemens/",
+      "status": 200,
+      "final": "https://medtrica.com/siemens/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/sitemap/",
+      "status": 200,
+      "final": "https://medtrica.com/sitemap/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "page-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/skytron/",
+      "status": 200,
+      "final": "https://medtrica.com/skytron/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/solacare-memory-flex-5-0/",
+      "status": 200,
+      "final": "https://medtrica.com/solacare-memory-flex-5-0/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/solacare-memory-flex-max-air/",
+      "status": 200,
+      "final": "https://medtrica.com/solacare-memory-flex-max-air/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/solid-reasons-to-choose-padded-gait-belt-with-handles/",
+      "status": 200,
+      "final": "https://medtrica.com/solid-reasons-to-choose-padded-gait-belt-with-handles/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/solid-reasons-to-choose-padded-gait-belt-with-handles/posey-quick-release-gait-belt/",
+      "status": 200,
+      "final": "https://medtrica.com/solid-reasons-to-choose-padded-gait-belt-with-handles/posey-quick-release-gait-belt/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/solid-reasons-to-choose-padded-gait-belt-with-handles/standard-cotton-gait-belt-single-or-pack-of-8/",
+      "status": 200,
+      "final": "https://medtrica.com/solid-reasons-to-choose-padded-gait-belt-with-handles/standard-cotton-gait-belt-single-or-pack-of-8/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/standard-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/standard-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/steris/",
+      "status": 200,
+      "final": "https://medtrica.com/steris/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/stryker-stretcher-mattresses/",
+      "status": 200,
+      "final": "https://medtrica.com/stryker-stretcher-mattresses/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/surgery-table-strap-vinyl-nylon/",
+      "status": 200,
+      "final": "https://medtrica.com/surgery-table-strap-vinyl-nylon/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/symmetry-mattress-xt/",
+      "status": 200,
+      "final": "https://medtrica.com/symmetry-mattress-xt/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/symmetry-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/symmetry-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/symmetry-plus-mattress-xt/",
+      "status": 200,
+      "final": "https://medtrica.com/symmetry-plus-mattress-xt/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/symmetry-plus-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/symmetry-plus-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/test-3/",
+      "status": 200,
+      "final": "https://medtrica.com/test-3/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "page-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/test/",
+      "status": 200,
+      "final": "https://medtrica.com/test/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "page-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/the-ultimate-guide-on-the-best-mattress-for-adjustable-bed/",
+      "status": 200,
+      "final": "https://medtrica.com/the-ultimate-guide-on-the-best-mattress-for-adjustable-bed/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/the-ultimate-guide-on-the-best-mattress-for-adjustable-bed/hospital-room-with-beds-comfortable-medical-equipped-modern-hospital_29285-1917/",
+      "status": 200,
+      "final": "https://medtrica.com/the-ultimate-guide-on-the-best-mattress-for-adjustable-bed/hospital-room-with-beds-comfortable-medical-equipped-modern-hospital_29285-1917/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/things-keep-mind-buying-medical-sandbags-handles/",
+      "status": 200,
+      "final": "https://medtrica.com/things-keep-mind-buying-medical-sandbags-handles/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/things-you-should-keep-in-mind-before-selecting-memory-foam-mattress-topper/",
+      "status": 200,
+      "final": "https://medtrica.com/things-you-should-keep-in-mind-before-selecting-memory-foam-mattress-topper/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/things-you-should-keep-in-mind-before-selecting-memory-foam-mattress-topper/best-memeory-foam-mattress-topper/",
+      "status": 200,
+      "final": "https://medtrica.com/things-you-should-keep-in-mind-before-selecting-memory-foam-mattress-topper/best-memeory-foam-mattress-topper/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/tips-purchasing-right-stretcher-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/tips-purchasing-right-stretcher-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/tips-purchasing-right-stretcher-mattress/hospital-bed-1229668-2/",
+      "status": 200,
+      "final": "https://medtrica.com/tips-purchasing-right-stretcher-mattress/hospital-bed-1229668-2/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/tips-purchasing-right-stretcher-mattress/hospital-bed-1229668/",
+      "status": 200,
+      "final": "https://medtrica.com/tips-purchasing-right-stretcher-mattress/hospital-bed-1229668/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/tips-purchasing-right-stretcher-mattress/intensive_care_unit/",
+      "status": 200,
+      "final": "https://medtrica.com/tips-purchasing-right-stretcher-mattress/intensive_care_unit/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/ulnar-nerve-elbow-pad-protector/",
+      "status": 200,
+      "final": "https://medtrica.com/ulnar-nerve-elbow-pad-protector/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/ulnar-nerve-elbow-pad-protector/medtrica-2/",
+      "status": 200,
+      "final": "https://medtrica.com/ulnar-nerve-elbow-pad-protector/medtrica-2/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/ulnar-nerve-elbow-pad-protector/ulnar-nerve-elbow-protector-medtrica/",
+      "status": 200,
+      "final": "https://medtrica.com/ulnar-nerve-elbow-pad-protector/ulnar-nerve-elbow-protector-medtrica/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/usa-veterans-affairs/",
+      "status": 200,
+      "final": "https://medtrica.com/usa-veterans-affairs/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/use-x-ray-pads-help-protect-x-ray-table/",
+      "status": 200,
+      "final": "https://medtrica.com/use-x-ray-pads-help-protect-x-ray-table/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/use-x-ray-pads-help-protect-x-ray-table/x-ray-table-pads/",
+      "status": 200,
+      "final": "https://medtrica.com/use-x-ray-pads-help-protect-x-ray-table/x-ray-table-pads/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/velcro/",
+      "status": 200,
+      "final": "https://medtrica.com/velcro/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "product-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/what-is-gait-belt-how-to-use-and-benefits-of-using-gait-belt/",
+      "status": 200,
+      "final": "https://medtrica.com/what-is-gait-belt-how-to-use-and-benefits-of-using-gait-belt/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/what-is-gait-belt-how-to-use-and-benefits-of-using-gait-belt/benefits-of-gait-belt-2/",
+      "status": 200,
+      "final": "https://medtrica.com/what-is-gait-belt-how-to-use-and-benefits-of-using-gait-belt/benefits-of-gait-belt-2/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/what-is-gait-belt-how-to-use-and-benefits-of-using-gait-belt/benefits-of-gait-belt/",
+      "status": 200,
+      "final": "https://medtrica.com/what-is-gait-belt-how-to-use-and-benefits-of-using-gait-belt/benefits-of-gait-belt/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/what-is-gait-belt-how-to-use-and-benefits-of-using-gait-belt/gait-belt-2/",
+      "status": 200,
+      "final": "https://medtrica.com/what-is-gait-belt-how-to-use-and-benefits-of-using-gait-belt/gait-belt-2/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/what-is-gait-belt-how-to-use-and-benefits-of-using-gait-belt/gait-belt-3/",
+      "status": 200,
+      "final": "https://medtrica.com/what-is-gait-belt-how-to-use-and-benefits-of-using-gait-belt/gait-belt-3/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/what-is-gait-belt-how-to-use-and-benefits-of-using-gait-belt/gait-belt-4/",
+      "status": 200,
+      "final": "https://medtrica.com/what-is-gait-belt-how-to-use-and-benefits-of-using-gait-belt/gait-belt-4/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/what-is-gait-belt-how-to-use-and-benefits-of-using-gait-belt/gait_belt-2/",
+      "status": 200,
+      "final": "https://medtrica.com/what-is-gait-belt-how-to-use-and-benefits-of-using-gait-belt/gait_belt-2/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/what-is-gait-belt-how-to-use-and-benefits-of-using-gait-belt/gait_belt-3/",
+      "status": 200,
+      "final": "https://medtrica.com/what-is-gait-belt-how-to-use-and-benefits-of-using-gait-belt/gait_belt-3/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/what-is-gait-belt-how-to-use-and-benefits-of-using-gait-belt/gait_belt/",
+      "status": 200,
+      "final": "https://medtrica.com/what-is-gait-belt-how-to-use-and-benefits-of-using-gait-belt/gait_belt/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/what-is-tempur-pedic-mattress-and-their-health-benefits/",
+      "status": 200,
+      "final": "https://medtrica.com/what-is-tempur-pedic-mattress-and-their-health-benefits/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "post-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/what-is-tempur-pedic-mattress-and-their-health-benefits/health-benefits-of-a-theraputic-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/what-is-tempur-pedic-mattress-and-their-health-benefits/health-benefits-of-a-theraputic-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/what-is-tempur-pedic-mattress-and-their-health-benefits/hospital-527623-2/",
+      "status": 200,
+      "final": "https://medtrica.com/what-is-tempur-pedic-mattress-and-their-health-benefits/hospital-527623-2/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com/what-is-tempur-pedic-mattress-and-their-health-benefits/hospital-527623/",
+      "status": 200,
+      "final": "https://medtrica.com/what-is-tempur-pedic-mattress-and-their-health-benefits/hospital-527623/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "attachment-sitemap.xml"
+    },
+    {
+      "url": "https://medtrica.com//clean-disinfect/",
+      "status": 200,
+      "final": "https://medtrica.com//clean-disinfect/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com//emergency-response-body-bags/",
+      "status": 200,
+      "final": "https://medtrica.com//emergency-response-body-bags/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com//emergency-response-mattresses/",
+      "status": 200,
+      "final": "https://medtrica.com//emergency-response-mattresses/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com//endoscopy-respiratory-products/",
+      "status": 200,
+      "final": "https://medtrica.com//endoscopy-respiratory-products/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com//endoscopy-respiratory-products/precleaning/",
+      "status": 200,
+      "final": "https://medtrica.com//endoscopy-respiratory-products/precleaning/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com//endoscopy-respiratory-products/protection/",
+      "status": 200,
+      "final": "https://medtrica.com//endoscopy-respiratory-products/protection/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com//hospital-bed-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com//hospital-bed-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com//hospital-bed-mattress/bariatric-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com//hospital-bed-mattress/bariatric-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com//hospital-bed-mattress/long-term-care/",
+      "status": 200,
+      "final": "https://medtrica.com//hospital-bed-mattress/long-term-care/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com//hospital-bed-mattress/mattress-covers/",
+      "status": 200,
+      "final": "https://medtrica.com//hospital-bed-mattress/mattress-covers/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com//hospital-bed-mattress/overlay-mattress-pads/",
+      "status": 200,
+      "final": "https://medtrica.com//hospital-bed-mattress/overlay-mattress-pads/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com//hospital-bed-mattress/psychiatric-mattresses/",
+      "status": 200,
+      "final": "https://medtrica.com//hospital-bed-mattress/psychiatric-mattresses/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com//hospital-bed-mattress/replacement-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com//hospital-bed-mattress/replacement-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com//o-r-surgery-table-pads/",
+      "status": 200,
+      "final": "https://medtrica.com//o-r-surgery-table-pads/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com//patient-safety/",
+      "status": 200,
+      "final": "https://medtrica.com//patient-safety/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com//pediatric-mattresses/",
+      "status": 200,
+      "final": "https://medtrica.com//pediatric-mattresses/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com//positioning-straps/",
+      "status": 200,
+      "final": "https://medtrica.com//positioning-straps/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com//stretcher-mattresses/",
+      "status": 200,
+      "final": "https://medtrica.com//stretcher-mattresses/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com//x-ray-table-pads/",
+      "status": 200,
+      "final": "https://medtrica.com//x-ray-table-pads/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/author/admin/",
+      "status": 200,
+      "final": "https://medtrica.com/author/admin/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/author/bruce-mcclain/page/2/",
+      "status": 200,
+      "final": "https://medtrica.com/author/bruce-mcclain/page/2/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/author/bruce-mcclain/page/3/",
+      "status": 200,
+      "final": "https://medtrica.com/author/bruce-mcclain/page/3/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/author/john-clark/page/2/",
+      "status": 200,
+      "final": "https://medtrica.com/author/john-clark/page/2/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/author/john-clark/page/3/",
+      "status": 200,
+      "final": "https://medtrica.com/author/john-clark/page/3/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/best-hypoallergenic-mattress-for-asthma-allergy-sufferers-buying-guide/",
+      "status": 404,
+      "final": "https://medtrica.com/best-hypoallergenic-mattress-for-asthma-allergy-sufferers-buying-guide/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/best-mattress-for-sciatica-the-ultimate-buyers-guide/",
+      "status": 404,
+      "final": "https://medtrica.com/best-mattress-for-sciatica-the-ultimate-buyers-guide/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/blog-thank-you/",
+      "status": 200,
+      "final": "https://medtrica.com/blog-thank-you/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/blog/category/hospital-mattress/page/2/",
+      "status": 200,
+      "final": "https://medtrica.com/blog/category/hospital-mattress/page/2/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/blog/page/2/",
+      "status": 200,
+      "final": "https://medtrica.com/blog/page/2/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/blog/page/3/",
+      "status": 200,
+      "final": "https://medtrica.com/blog/page/3/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/blog/page/4/",
+      "status": 200,
+      "final": "https://medtrica.com/blog/page/4/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/blog/page/5/",
+      "status": 200,
+      "final": "https://medtrica.com/blog/page/5/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/endoscopy-respiratory-products/",
+      "status": 200,
+      "final": "https://medtrica.com/endoscopy-respiratory-products/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/endoscopy-respiratory-products/precleaning/",
+      "status": 200,
+      "final": "https://medtrica.com/endoscopy-respiratory-products/precleaning/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/endoscopy-respiratory-products/protection/",
+      "status": 200,
+      "final": "https://medtrica.com/endoscopy-respiratory-products/protection/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/hospital-bed-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/hospital-bed-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/hospital-bed-mattress/bariatric-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/hospital-bed-mattress/bariatric-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/hospital-bed-mattress/long-term-care/",
+      "status": 200,
+      "final": "https://medtrica.com/hospital-bed-mattress/long-term-care/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/hospital-bed-mattress/mattress-covers/",
+      "status": 200,
+      "final": "https://medtrica.com/hospital-bed-mattress/mattress-covers/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/hospital-bed-mattress/medical-air-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/hospital-bed-mattress/medical-air-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/hospital-bed-mattress/memory-foam-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com/hospital-bed-mattress/memory-foam-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/hospital-bed-mattress/overlay-mattress-pads/",
+      "status": 200,
+      "final": "https://medtrica.com/hospital-bed-mattress/overlay-mattress-pads/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/hospital-bed-mattress/page/2/",
+      "status": 200,
+      "final": "https://medtrica.com/hospital-bed-mattress/page/2/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/hospital-bed-mattress/psychiatric-mattresses/",
+      "status": 200,
+      "final": "https://medtrica.com/hospital-bed-mattress/psychiatric-mattresses/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/hospital-bed-mattress/tempurpedic-mattress/",
+      "status": 404,
+      "final": "https://medtrica.com/hospital-bed-mattress/tempurpedic-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/hospital-bed-mattress/therapeutic-mattresses/",
+      "status": 404,
+      "final": "https://medtrica.com/hospital-bed-mattress/tempurpedic-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/o-r-surgery-table-pads/",
+      "status": 200,
+      "final": "https://medtrica.com/o-r-surgery-table-pads/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/patient-safety/",
+      "status": 200,
+      "final": "https://medtrica.com/patient-safety/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/pediatric-mattresses/",
+      "status": 200,
+      "final": "https://medtrica.com/pediatric-mattresses/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/positioning-pillows/",
+      "status": 200,
+      "final": "https://medtrica.com/positioning-pillows-helping-getting-sleep-support-comfort-need/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/positioning-straps/",
+      "status": 200,
+      "final": "https://medtrica.com/positioning-straps/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/product-category/hospital-bed-mattress/medical-air-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com//hospital-bed-mattress/medical-air-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/product-thank-you/",
+      "status": 200,
+      "final": "https://medtrica.com/product-thank-you/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/products/page/2/",
+      "status": 200,
+      "final": "https://medtrica.com/products/page/2/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/products/page/3/",
+      "status": 200,
+      "final": "https://medtrica.com/products/page/3/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/products/page/4/",
+      "status": 200,
+      "final": "https://medtrica.com/products/page/4/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/products/page/5/",
+      "status": 200,
+      "final": "https://medtrica.com/products/page/5/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/quick-enquiry-thank-you/",
+      "status": 200,
+      "final": "https://medtrica.com/quick-enquiry-thank-you/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/stretcher-mattresses/",
+      "status": 200,
+      "final": "https://medtrica.com/stretcher-mattresses/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/x-ray-table-pads/",
+      "status": 200,
+      "final": "https://medtrica.com/x-ray-table-pads/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com//hospital-bed-mattress/medical-air-mattress/",
+      "status": 200,
+      "final": "https://medtrica.com//hospital-bed-mattress/medical-air-mattress/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/blog/page/6/",
+      "status": 200,
+      "final": "https://medtrica.com/blog/page/6/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    },
+    {
+      "url": "https://medtrica.com/products/page/1/",
+      "status": 200,
+      "final": "https://medtrica.com/products/",
+      "content_type": "text/html; charset=UTF-8",
+      "error": "",
+      "sitemap": "linked"
+    }
+  ]
+}

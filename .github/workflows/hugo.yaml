@@ -25,6 +25,12 @@ jobs:
         id: pages
       - name: Build
         run: hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - name: Verify generated pages and local links
+        env:
+          PAGES_BASE_URL: ${{ steps.pages.outputs.base_url }}
+        run: |
+          site_prefix=$(python3 -c 'import os; from urllib.parse import urlsplit; print(urlsplit(os.environ["PAGES_BASE_URL"]).path.rstrip("/") + "/")')
+          python3 scripts/verify_site.py public "$site_prefix"
       - uses: actions/upload-pages-artifact@v5
         with:
           path: public

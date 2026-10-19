@@ -1,0 +1,9 @@
+{{- $path := .path -}}
+{{- $url := $path | relURL -}}
+{{- with resources.Get $path -}}
+ {{- if in (slice "image/jpeg" "image/png" "image/webp") .MediaType.Type -}}
+  {{- $image := .Fit (printf "%dx%d webp q82" ($.width | default 640) ($.height | default 480)) -}}
+  {{- $url = $image.RelPermalink -}}
+ {{- end -}}
+{{- end -}}
+{{- return $url -}}

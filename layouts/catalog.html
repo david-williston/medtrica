@@ -1,0 +1,10 @@
+{{ define "main" }}
+<header class="page-header"><div class="breadcrumbs"><a href="{{ "" | relURL }}">Home</a> / <a href="{{ "products/" | relURL }}">Products</a></div><h1>{{ .Title }}</h1>{{ with .Description }}<p>{{ . }}</p>{{ end }}</header>
+{{ if eq .Params.contentKind "product-category" }}<nav class="category-nav" aria-label="Product categories">{{ range hugo.Data.catalog.categories }}{{ with partial "page-for-path.html" . }}<a href="{{ .RelPermalink }}" {{ if eq $.RelPermalink .RelPermalink }}aria-current="page"{{ end }}>{{ .Title }}</a>{{ end }}{{ end }}</nav>{{ end }}
+{{ with .Content }}<div class="post-content migrated-content">{{ . }}</div>{{ end }}
+{{ $items := .Params.items }}{{ if eq .Params.catalogAll true }}{{ $items = hugo.Data.catalog.products }}{{ end }}
+<p class="catalog-count">{{ len $items }} {{ if eq .Params.contentKind "product-category" }}products{{ else }}items{{ end }}</p>
+<div class="product-grid catalog-grid">{{ range $items }}{{ with partial "page-for-path.html" . }}
+<a class="product-card" href="{{ .RelPermalink }}">{{ $title := .Title }}{{ with .Params.gallery }}<div class="product-image"><img src="{{ partial "catalog-image.html" (dict "path" (index . 0) "width" 640 "height" 480) }}" alt="{{ $title }}" loading="lazy" decoding="async"></div>{{ end }}<div class="card-copy"><h2>{{ .Title }} <span aria-hidden="true">↗</span></h2><p>{{ .Params.catalogsummary | default .Description | default (.Summary | plainify) | truncate 170 }}</p></div></a>
+{{ end }}{{ end }}</div>
+{{ end }}

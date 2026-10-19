@@ -1,4 +1,4 @@
-baseURL = 'https://medtrica.com/'
+baseURL = 'https://david-williston.github.io/medtrica/'
 locale = 'en-US'
 title = 'Medtrica'
 theme = 'PaperMod'
@@ -34,5 +34,26 @@ enableRobotsTXT = true
   weight = 40
 [[menus.main]]
   name = 'Contact us'
-  url = '/contact/'
+  url = '/contact-us/'
   weight = 50
+
+[markup.goldmark.renderer]
+  unsafe = true
+[[menus.main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 35
+
+[[module.mounts]]
+  source = 'assets'
+  target = 'assets'
+[[module.mounts]]
+  source = 'static/media'
+  target = 'assets/media'
+
+[params.assets]
+  favicon = 'favicon.svg'
+  favicon16x16 = 'favicon.svg'
+  favicon32x32 = 'favicon.svg'
+  apple_touch_icon = 'images/logo.png'
+  safari_pinned_tab = 'favicon.svg'

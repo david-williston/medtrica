@@ -1,1 +1,44 @@
-[{"title": "Hospital bed mattresses", "slug": "hospital-bed-mattresses", "image": "hbm-cat.jpg", "description": "Support for everyday care, from acute settings to long-term care."}, {"title": "Stretcher mattresses", "slug": "stretcher-mattresses", "image": "hbm-cat.jpg", "description": "Replacement mattresses for patient transport and emergency care."}, {"title": "O.R. & imaging pads", "slug": "surgery-imaging-pads", "image": "product-categories-img4.png", "description": "Table pads for surgical suites and medical imaging departments."}, {"title": "Positioning & patient safety", "slug": "positioning-patient-safety", "image": "product-categories-img10.png", "description": "Practical support for positioning, transfers and daily patient care."}, {"title": "Endoscopy & respiratory", "slug": "endoscopy-respiratory", "image": "product-categories-img3.png", "description": "Precleaning and protection products for endoscopy and respiratory workflows."}, {"title": "Cleaning & disinfecting", "slug": "cleaning-disinfecting", "image": "product-categories-img13.jpg", "description": "Explore cleaning products and discuss your facility\u2019s supply needs."}]
+[
+  {
+    "title": "Hospital bed mattresses",
+    "slug": "hospital-bed-mattresses",
+    "image": "hbm-cat.jpg",
+    "description": "Support for everyday care, from acute settings to long-term care.",
+    "path": "product-category/hospital-bed-mattress/"
+  },
+  {
+    "title": "Stretcher mattresses",
+    "slug": "stretcher-mattresses",
+    "image": "hbm-cat.jpg",
+    "description": "Replacement mattresses for patient transport and emergency care.",
+    "path": "product-category/stretcher-mattresses/"
+  },
+  {
+    "title": "O.R. & imaging pads",
+    "slug": "surgery-imaging-pads",
+    "image": "product-categories-img4.png",
+    "description": "Table pads for surgical suites and medical imaging departments.",
+    "path": "product-category/o-r-surgery-table-pads/"
+  },
+  {
+    "title": "Positioning & patient safety",
+    "slug": "positioning-patient-safety",
+    "image": "product-categories-img10.png",
+    "description": "Practical support for positioning, transfers and daily patient care.",
+    "path": "product-category/positioning-pads/"
+  },
+  {
+    "title": "Endoscopy & respiratory",
+    "slug": "endoscopy-respiratory",
+    "image": "product-categories-img3.png",
+    "description": "Precleaning and protection products for endoscopy and respiratory workflows.",
+    "path": "product-category/endoscopy-respiratory-products/"
+  },
+  {
+    "title": "Cleaning & disinfecting",
+    "slug": "cleaning-disinfecting",
+    "image": "product-categories-img13.jpg",
+    "description": "Explore cleaning products and discuss your facility\u2019s supply needs.",
+    "path": "product-category/clean-disinfect/"
+  }
+]
