@@ -4,7 +4,7 @@ Full public-content migration of Medtrica’s WordPress website, with a customiz
 
 ## Local preview
 
-Install Hugo 0.158.0 or newer (CI pins 0.168.0), then run:
+Install Hugo Extended 0.158.0 or newer (CI pins 0.168.0), then run:
 
 ```sh
 hugo server
