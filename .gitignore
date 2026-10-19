@@ -4,3 +4,5 @@
 .DS_Store
 __pycache__/
 .venv/
+/data/git_history.json
+/data/site_version.json

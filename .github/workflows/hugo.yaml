@@ -2,18 +2,24 @@ name: Build and deploy Hugo to GitHub Pages
 on:
   push:
     branches: [main]
+    tags: ["v*"]
   pull_request:
   workflow_dispatch:
 permissions:
   contents: read
 concurrency:
-  group: pages-${{ github.ref }}
-  cancel-in-progress: true
+  group: pages
+  cancel-in-progress: false
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v7
+        with:
+          node-version: "24"
       - name: Install Hugo
         env:
           HUGO_VERSION: 0.168.0
@@ -23,6 +29,12 @@ jobs:
           echo "$RUNNER_TEMP" >> "$GITHUB_PATH"
       - uses: actions/configure-pages@v6
         id: pages
+      - name: Generate version and change history
+        env:
+          REQUIRE_RELEASE: ${{ startsWith(github.ref, 'refs/tags/') }}
+        run: node scripts/git-history.mjs
+      - name: Test versioning
+        run: npm test
       - name: Build
         run: hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Verify generated pages and local links
@@ -35,7 +47,7 @@ jobs:
         with:
           path: public
   deploy:
-    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    if: startsWith(github.ref, 'refs/tags/v') && github.event_name != 'pull_request'
     needs: build
     runs-on: ubuntu-latest
     permissions:

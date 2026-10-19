@@ -1,0 +1,14 @@
+.site-release { display: flex; align-items: center; flex-wrap: wrap; gap: 16px; margin-bottom: 20px; font-size: 1.125rem; }
+.site-release a { text-decoration: underline; }
+.site-version { display: inline-block; font-size: 1.125rem; font-variant-numeric: tabular-nums; padding: 4px 12px; border: 1px solid var(--border); border-radius: 8px; color: var(--accent); background: var(--surface); }
+.post-content .git-history { list-style: none; padding: 0; margin: 20px 0 0; border-inline-start: 2px solid var(--border); }
+.post-content .git-commit { position: relative; margin: 0; padding: 0 0 28px 28px; }
+.git-commit::before { content: ''; position: absolute; left: -6px; top: 12px; width: 10px; height: 10px; border-radius: 50%; background: var(--accent); }
+.git-commit-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 12px; font-size: 1.125rem; color: var(--secondary); }
+.git-commit-head code { font-size: 1.125rem; }
+.post-content .git-commit-subject { margin-block: 8px 12px; font-weight: 700; line-height: 1.5; }
+.post-content h3.git-release-title { display: flex; flex-wrap: wrap; align-items: baseline; gap: 16px; font-size: 1.5rem; }
+.git-release-date, .git-commit-body, .git-commit-body summary { font-size: 1.125rem; line-height: 1.7; }
+.git-release-date { font-weight: 400; color: var(--secondary); }
+.git-release + .git-release { margin-top: 40px; }
+.git-commit-body summary { cursor: pointer; padding: 12px 0; }

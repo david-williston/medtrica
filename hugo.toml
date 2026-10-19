@@ -1,5 +1,6 @@
 baseURL = 'https://david-williston.github.io/medtrica/'
 locale = 'en-US'
+timeZone = 'America/Mexico_City'
 title = 'Medtrica'
 theme = 'PaperMod'
 enableRobotsTXT = true

@@ -1,0 +1,14 @@
+{
+  "name": "medtrica",
+  "private": true,
+  "description": "Medtrica Hugo + PaperMod website on GitHub Pages",
+  "scripts": {
+    "history": "node scripts/git-history.mjs",
+    "dev": "npm run history && hugo server",
+    "build": "npm run history && hugo --gc --minify --cleanDestinationDir",
+    "test": "node --test scripts/versioning.test.mjs",
+    "deploy": "node scripts/release.mjs",
+    "release:dry-run": "node scripts/release.mjs --dry-run"
+  },
+  "engines": {"node": ">=22"}
+}

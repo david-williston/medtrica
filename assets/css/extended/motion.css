@@ -15,7 +15,7 @@
 .top-link { position: fixed; }
 
 .category-nav a {
-    --shine: color-mix(in srgb, #1c594a 22%, transparent);
+    --shine: color-mix(in srgb, #2b237b 22%, transparent);
 }
 
 :where(.button, button, [role="button"], .top-link, .pagination a, .category-nav a, #menu li:last-child a)::after {
